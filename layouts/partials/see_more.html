@@ -1,0 +1,32 @@
+{{ with .Site.Params.see_more }}
+{{ if .enable }}
+<section class="bar background-image-fixed-2 no-mb color-white text-center">
+    <div class="dark-mask"></div>
+    <div class="container container--small">
+        <div class="row">
+            <div class="col-md-12">
+                {{ with .icon }}
+                    <div class="icon icon-lg"><i class="{{ . }}"></i></div>
+                {{ end }}
+                <div class="cne-Logo" style="margin-bottom:2em;">
+                    <img style="width:40%;" src="{{ $.Site.Params.logo | absURL }}" alt="">
+                </div>
+                {{ with .title }}
+                    <h3 class="text-uppercase">{{ . }}</h3>
+                {{ end }}
+                {{ with .subtitle }}
+                    <p class="lead">{{ . }}</p>
+                {{ end }}
+                {{ with .link_url }}
+                    <p class="text-center">
+                        <a href="{{ . }}" class="btn btn-template-transparent-black btn-lg">{{ $.Site.Params.see_more.link_text }}</a>
+                    </p>
+                {{ end }}
+                
+            </div>
+
+        </div>
+    </div>
+</section>    
+{{ end }}
+{{ end }}

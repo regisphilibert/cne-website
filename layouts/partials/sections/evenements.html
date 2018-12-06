@@ -1,0 +1,16 @@
+<div class="container">
+	<div class="row">
+		<div class="cne-Calendar">
+		{{ range first 4 .Pages }}
+			<div class="cne-Event">
+				<div class="cne-Event__date">
+					{{ .Params.date_string }}
+				</div>
+				<div class="cne-Event__title">
+					{{ .Title }}
+				</div>
+			</div>
+		{{ end }}
+		</div>
+	</div>
+</div>

@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+  {{ partial "head.html" . }}
+
+  <body>
+
+    <div id="all">
+
+        <header>
+
+          {{ partial "nav.html" . }}
+
+        </header>
+
+        {{ partial "breadcrumbs.html" . }}
+
+        <div id="content">
+            <div class="container">
+
+                <div class="row">
+
+                    <!-- *** LEFT COLUMN *** -->
+
+                    <div class="col-md-9" id="blog-post">
+
+                        {{ with .Params.subtitle }}
+                            <h3>{{ . }}</h3>
+                        {{ end }}
+                        {{ with .Params.ref_url }}
+                            <p>
+                                <a href="{{ . }}" href="_blank" class="btn btn-template-main">Consulter</a>
+                            </p>
+                        {{ end }}
+                        <div id="post-content" style="margin-top:2em;">
+                          {{ .Content }}
+                          
+                        </div>
+                        <!-- /#post-content -->
+                        {{ if .Site.DisqusShortname }}
+                        <div id="comments">
+                            {{ template "_internal/disqus.html" . }}
+                        </div>
+                        {{ end }}
+
+                    </div>
+                    <!-- /#blog-post -->
+
+                    <!-- *** LEFT COLUMN END *** -->
+
+                    <!-- *** RIGHT COLUMN *** -->
+
+                    <div class="col-md-3" style="margin-bottom:3rem;">
+
+                        <!-- *** MENUS AND WIDGETS *** -->
+
+                        {{ with .Params.banner }}
+                            <img src="{{ . | absURL }}" class="img-responsive" alt="{{ $.Title }}" >
+                        {{ end }}
+
+                        <!-- *** MENUS AND FILTERS END *** -->
+
+                    </div>
+                    <!-- /.col-md-3 -->
+
+                    <!-- *** RIGHT COLUMN END *** -->
+
+                </div>
+                <!-- /.row -->
+
+            </div>
+            <!-- /.container -->
+        </div>
+        <!-- /#content -->
+
+        {{ partial "footer.html" . }}
+
+    </div>
+    <!-- /#all -->
+
+    {{ partial "scripts.html" . }}
+
+  </body>
+</html>

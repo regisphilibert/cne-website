@@ -1,0 +1,32 @@
+<div class="cne-grid">
+    {{ range first 4 .Pages }}
+    <div class="cne-grid__item cne-grid__item--with-bottom">
+        <div class="box-image-text blog">
+            <div class="top">
+                <div class="image" style="overflow:hidden">
+                    {{ with .Params.video_id }}
+                        <img src="{{ partial "video_thumbnail" . }}" class="img-responsive" alt="Couverture de la vidéo {{ $.Title }}" >
+                    {{ end }}
+                </div>
+                <div class="bg"></div>
+                <div class="text">
+                    <p class="buttons">
+                        <a href="{{ .Permalink }}" class="btn btn-template-transparent-primary"><i class="fa fa-link"></i> {{ i18n "readMore" }}</a>
+                    </p>
+                </div>
+            </div>
+
+            <div class="content">
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
+                <div class="cne-grid__item__bottom">
+                <div class="read-more">
+                    <a href="{{ .Permalink }}" class="btn btn-template-main"><i class="fa fa-play"></i> Voir la vidéo</a>
+                </div>
+                </div>
+            </div>
+        </div>
+        <!-- /.box-image-text -->
+    </div>
+    {{ end }}
+
+</div>

@@ -1,0 +1,42 @@
+baseURL: "http://example.org/"
+languageCode: "fr-fr"
+title: "Comprendre notre époque"
+DefaultContentLanguage: fr
+theme: hugo-universal-theme
+
+taxonomies:
+  type: types
+
+params:
+  date_format: "January 2, 2006"
+
+  email: regisphilibert@gmail.com
+
+  logo: "img/logo_cne.png"
+  logo_small: "img/logo-small.png"
+
+  topbar: 
+    enable: true
+    text: "Commentaires: contact@comprendrenotreepoque.com"
+
+  carousel:
+    enable: false
+
+  see_more:
+    enable: true
+    subtitle: En quoi les sciences humaines et sociales peuvent-elles nous permettre de mieux comprendre et vivre ensemble notre époque ?
+  style: "blue"
+languages:
+  fr:
+    languageName: Français
+menu:
+  topbar:
+    - weight: 2
+      name: "Youtube"
+      url: "http://youtube.com"
+      pre: "<i class='fa fa-2x fa-youtube'></i>"
+    - weight: 2
+      name: "Facebook"
+      url: "http://facebook.com"
+      pre: "<i class='fa fa-2x fa-facebook'></i>"
+

@@ -1,0 +1,124 @@
+body{
+	font-size:16px;
+}
+
+.cne-Video {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+}
+.cne-Video iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.cne-Badge{
+    border:1px solid currentColor;
+    text-transform: uppercase;
+    padding: 0.2em 0.5em;
+    display: inline-block;
+    margin-bottom: 1em;
+}
+
+.cne-Event__meta{
+    display:flex;
+    flex-wrap: wrap;
+    font-size: 1.1em;
+    margin-bottom: .5em;
+    border-bottom:1px currentColor;
+    justify-content: space-between;
+}
+
+
+.container--small{
+    max-width:700px;
+}
+
+.navbar-brand img{
+    width:auto;
+    height:100%;
+}
+
+.cne-home .navbar-brand{
+    visibility: hidden;
+}
+
+.heading h1 i.fa.cne-icon,
+.heading h2 i.fa.cne-icon,
+.heading h3 i.fa.cne-icon{
+    display: inline;
+    background: transparent;
+    width: auto;
+    height: auto;
+    vertical-align: middle;
+    text-align: left;
+    color: currentColor;
+    font-size: 1em;
+    line-height: inherit;
+    border-radius: 0;
+}
+
+.cne-grid{
+    display:grid;
+    grid-gap:2em;
+    grid-template-columns: 1fr 1fr;
+}
+.cne-grid__item--with-bottom{
+    position: relative;
+    padding-bottom:30px;
+}
+.cne-grid__item--with-bottom .box-image-text{
+    position: static;
+}
+.cne-grid__item__bottom{
+    position: absolute;
+    bottom:0;
+    width: 100%;
+    text-align: center;
+}
+.cne-grid__item__bottom .btn{
+    font-size:10px;
+}
+@media (min-width:600px){
+    .cne-grid{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+@media (min-width:800px){
+    .cne-grid{
+        grid-template-columns: repeat(4, 1fr);
+    }
+    .cne-grid__item__bottom .btn{
+        font-size:16px;
+    }
+}
+
+#copyright{
+    padding:1rem 0;
+}
+
+.cne-table{
+    border-collapse: collapse;
+}
+.cne-table tr, .cne-table td, .cne-table th{
+    border:1px solid black;
+}
+.cne-table td, .cne-table th{
+    padding:0.5em;
+}
+.cne-Event{
+    margin-bottom: 3rem;
+}
+.cne-Event__date{
+    border-bottom:4px solid #467fbf;
+    display: inline-block;
+    padding:.3em 0;
+    text-transform: uppercase;
+}
+.cne-Event__title{
+    padding: .5em 0;
+}

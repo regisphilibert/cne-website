@@ -1,0 +1,13 @@
+<div class="cne-Event__type">
+	{{ with index .Params.types 0 }}
+		<a class="cne-Event__meta__top" href="{{ $.Site.BaseURL }}types/{{ . | urlize | lower  | safeURL }}"><i class="fa fa-tags"></i>{{ . }}</a>
+	{{ end }}
+</div>
+<div class="cne-Event__meta">
+	{{ with .Params.date_string }}
+		<div><i class="fa fa-calendar-o"></i>  {{ . }}</div>
+	{{ end }}
+	{{ with .Params.where }}
+		<div><i class="fa fa-compass"></i> {{ . }}</div>
+	{{ end }}
+</div>
