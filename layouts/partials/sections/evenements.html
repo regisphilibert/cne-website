@@ -9,6 +9,9 @@
 				<div class="cne-Event__title">
 					{{ .Title }}
 				</div>
+				{{ with .Params.where }}
+					<div><em><i class="fa fa-compass"></i> {{ . }}</em></div>
+				{{ end }}
 			</div>
 		{{ end }}
 		</div>

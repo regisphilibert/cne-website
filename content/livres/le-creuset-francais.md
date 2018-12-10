@@ -1,7 +1,7 @@
 ---
 title: Le Creuset Français
 ref_url: https://www.decitre.fr/livres/le-creuset-francais-9782757857786.html#resume
-banner: img/Le-creuset-francais.jpg
+banner: uploads/Le-creuset-francais.jpg
 subtitle: Histoire de l'immigration XIXe-XXe siècles
 author: Gérard Noiriel
 publisher: Editions Points

@@ -1,7 +1,7 @@
 ---
 title: Fonctionner ou exister 
 ref_url: https://www.decitre.fr/livres/fonctionner-ou-exister-9782746517462.html
-banner: img/fonctionner.jpg
+banner: uploads/fonctionner.jpg
 author: Miguel Benasayag
 publisher: Editions le pommier
 ---

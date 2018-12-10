@@ -1,7 +1,7 @@
 ---
 title: La fin du courage
 ref_url: https://www.decitre.fr/livres/la-fin-du-courage-9782253156291.html
-banner: img/La-fin-du-courage.jpg
+banner: uploads/La-fin-du-courage.jpg
 subtitle: La reconquête d'une vertu démocratique (Broché)
 author: Cynthia Fleury
 publisher: Editions  LGF/Livre de Poche

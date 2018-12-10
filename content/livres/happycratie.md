@@ -1,7 +1,7 @@
 ---
 title: Happycratie
 ref_url: https://www.decitre.fr/livres/happycratie-9791094841761.html
-banner: img/Happycratie.jpg
+banner: uploads/Happycratie.jpg
 subtitle: Comment l'industrie du bonheur a pris le contrôle de nos vies
 author: Eva Illouz
 publisher: Editions premier parallèle

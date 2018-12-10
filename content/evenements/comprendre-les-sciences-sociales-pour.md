@@ -3,6 +3,7 @@ title: Comprendre les sciences sociales pour s'en servir dans notre vie et nos p
 date: 2019-05-20T20:00
 date_string: Du 20 Mai au 5 Juin 2019
 where: Salle Jules FERRY - Orléans
+banner: uploads/affiche_evenement.jpg
 types:
   - Séminaire
 ---

@@ -1,7 +1,7 @@
 ---
 title: Sociologie de la télévision (Broché)
 ref_url: https://www.decitre.fr/livres/sociologie-de-la-television-9782707150646.html 9782707198174_9782707198174_3.html
-banner: img/Happycratie.jpg
+banner: uploads/Happycratie.jpg
 author: Brigitte Le Grignou, Erik Neveu
 publisher: Editions La Découverte
 ---

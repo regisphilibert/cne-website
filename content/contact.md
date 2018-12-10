@@ -5,4 +5,4 @@ menu: main
 id: contact
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod eaque non consequatur dolore possimus sapiente quos repellat, saepe error unde ea molestiae harum, corrupti exercitationem similique architecto optio. Vitae, recusandae.
+Utiliser le formulaire de contact ci-dessous ou écrivez nous un courriel [comprendre.notre.epoque@orange.fr](comprendre.notre.epoque@orange.fr)
