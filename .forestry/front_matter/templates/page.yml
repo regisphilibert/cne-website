@@ -11,4 +11,4 @@ fields:
   name: id
   hidden: true
 pages:
-- content/adhésion.md
+- content/adhesion.md
