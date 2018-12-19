@@ -40,7 +40,7 @@ sections:
 - type: document
   path: data/options.yaml
   label: Options
-  template:
+  templates:
     - options
 upload_dir: static/uploads
 public_path: "/uploads"
