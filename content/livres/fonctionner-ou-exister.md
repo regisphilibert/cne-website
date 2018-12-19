@@ -4,7 +4,7 @@ ref_url: https://www.decitre.fr/livres/fonctionner-ou-exister-9782746517462.html
 banner: uploads/fonctionner.jpg
 author: Miguel Benasayag
 publisher: Editions le pommier
-summary: Mais que se passe-t-il, dans nos sociétés occidentales, pour que les Anciens
+text_summary: Mais que se passe-t-il, dans nos sociétés occidentales, pour que les Anciens
   de naguère soient devenus des " vieux ", que les jeunes n'aient plus le temps d'être
   jeunes, pour que la fragilité, les failles ne soient plus assimilées qu'à des dysfonctionnements
   ?
