@@ -12,6 +12,7 @@ fields:
   config:
     date_format: DD/MM/YYYY
     time_format: hh:mm
+  description: La date précise du début de l'évènement
 - type: text
   name: date_string
   label: Date explicite
