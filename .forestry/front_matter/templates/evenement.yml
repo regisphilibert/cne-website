@@ -1,0 +1,23 @@
+---
+label: Évènement
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+- type: text
+  name: date_string
+  label: Date
+  description: 'Un date comprehensible par tous: Ex. Mardi 20 Juin 2019'
+- type: textarea
+  name: where
+  label: Lieu
+  description: Ex. Salle Jules Ferry - Orléans
+- type: file
+  name: banner
+  label: Image
+- type: tag_list
+  name: types
+  label: Types
+  description: Séminaire, Conférence etc...
