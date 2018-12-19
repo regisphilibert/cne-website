@@ -10,3 +10,7 @@ fields:
   name: video_id
   label: Identifiant de la Vidéo
   description: 'Le code de la vidéo YouTube. Ex: KihEYwWvxuQ'
+- type: include
+  label: Extrait
+  name: extrait
+  template: extrait
