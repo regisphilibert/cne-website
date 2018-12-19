@@ -14,5 +14,3 @@ fields:
   label: Extrait
   name: extrait
   template: extrait
-pages:
-- content/videos/bus-génial.md
