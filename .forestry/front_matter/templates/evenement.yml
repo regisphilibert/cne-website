@@ -11,7 +11,7 @@ fields:
   label: date
   config:
     date_format: DD/MM/YYYY
-    time_format: h:mm
+    time_format: hh:mm
 - type: text
   name: date_string
   label: Date explicite
