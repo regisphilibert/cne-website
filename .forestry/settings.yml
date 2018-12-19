@@ -40,7 +40,6 @@ sections:
 - type: document
   path: data/options.yaml
   label: Options
-  match: "**/*"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''

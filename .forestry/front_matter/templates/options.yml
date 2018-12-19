@@ -1,0 +1,13 @@
+---
+label: Options
+hide_body: true
+is_partial: false
+fields:
+- type: textarea
+  name: site_description
+  label: Description du site
+  description: La description du site rappelée dans le footer.
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
