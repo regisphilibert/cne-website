@@ -41,7 +41,7 @@ sections:
   path: data/options.yaml
   label: Options
   templates:
-    - options
+  - options
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
