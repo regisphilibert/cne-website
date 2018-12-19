@@ -12,8 +12,8 @@ params:
 
   email: regisphilibert@gmail.com
 
-  logo: "img/logo_cne.png"
-  logo_small: "img/logo_cne.png"
+  logo: "img/logo_cne_text.png"
+  logo_small: "img/logo_cne_text.png"
 
   topbar: 
     enable: true

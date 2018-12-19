@@ -21,6 +21,9 @@
             <div class="content">
                 <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
                 <p class="intro">{{ printf "%s | %s" .Params.author .Params.publisher}}</p>
+                <p class="intro" style="margin-bottom:0;">
+                    {{ default (.Summary | truncate 100) .Params.summary }}
+                </p>
                 <div class="cne-grid__item__bottom">
                     <div class="read-more">
                       <a href="{{ .Permalink }}" class="btn btn-template-main">{{ i18n "continueReading" }}</a>

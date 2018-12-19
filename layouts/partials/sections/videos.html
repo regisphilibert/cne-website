@@ -18,6 +18,9 @@
 
             <div class="content">
                 <a href="{{ .Permalink }}">{{ .Title }}</a>
+                <p class="intro" style="text-align:center;margin-top:1em;">
+                    {{ default (.Summary | truncate 100) .Params.summary }}
+                </p>
                 <div class="cne-grid__item__bottom">
                 <div class="read-more">
                     <a href="{{ .Permalink }}" class="btn btn-template-main"><i class="fa fa-play"></i> Voir la vidéo</a>
