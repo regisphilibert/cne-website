@@ -16,10 +16,10 @@ fields:
   name: publisher
   label: Maison d'Édition
 - type: text
-  name: summary
-  label: Extrait court
-  description: Quelques mots affiché sous l'élément en page d'accueil
-- type: text
   name: ref_url
   label: Réf. Achat
   description: URL vers page boutique
+- type: include
+  name: summary
+  label: Summary
+  template: extrait
