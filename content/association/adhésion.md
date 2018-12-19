@@ -2,6 +2,9 @@
 title: Adhésion
 id: ''
 date: 2018-12-19 16:56:20 +0100
+menu:
+  main:
+    weight: 6
 
 ---
 Vestibulum id ligula porta felis euismod semper. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec sed odio dui. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean lacinia bibendum nulla sed consectetur.
