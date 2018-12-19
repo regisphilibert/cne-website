@@ -8,7 +8,7 @@ fields:
   label: Title
 - type: text
   name: date_string
-  label: Date
+  label: Date explicite
   description: 'Un date comprehensible par tous: Ex. Mardi 20 Juin 2019'
 - type: textarea
   name: where
@@ -21,3 +21,8 @@ fields:
   name: types
   label: Types
   description: Séminaire, Conférence etc...
+- type: datetime
+  name: date
+  label: date
+  config:
+    date_format: DD/MM/YYYY
