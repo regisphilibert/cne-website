@@ -1,12 +1,12 @@
 ---
 title: La philosophie pour mieux vivre ?
-date: 2019-03-08T20:00
+date: 2019-03-09 02:00:00 +0100
 date_string: Jeudi 8 mars à 20h
 where: Centre culturel municipal - Lyon
 types:
-  - Atelier
----
+- Atelier
 
+---
 Au delà de la réflexion et la prise de hauteur, s'approprier des éléments de philosophie pour mieux vivre
 
 Elodie JACQUES - Philosophe
