@@ -14,16 +14,22 @@ sections:
   label: Livres
   create: all
   match: "**/*"
+  templates:
+  - livre
 - type: directory
   path: content/videos
   label: Videos
   create: all
   match: "**/*"
+  templates:
+  - video
 - type: directory
   path: content/evenements
   label: Evenements
   create: all
   match: "**/*"
+  templates:
+  - evenement
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
