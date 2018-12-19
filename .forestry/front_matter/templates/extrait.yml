@@ -5,5 +5,5 @@ is_partial: true
 fields:
 - type: textarea
   description: Quelques mots affiché sous l'élément en page d'accueil
-  label: Extrait court
+  label: Description courte
   name: summary
