@@ -8,5 +8,4 @@ fields:
   label: Titre
 pages:
 - content/adhesion.md
-- content/videos/prout.md
 - content/videos/test.md
