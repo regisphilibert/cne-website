@@ -1,0 +1,9 @@
+---
+label: Extrait
+hide_body: false
+is_partial: true
+fields:
+- type: textarea
+  description: Quelques mots affiché sous l'élément en page d'accueil
+  label: Extrait court
+  name: summary
