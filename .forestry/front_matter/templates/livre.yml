@@ -1,0 +1,25 @@
+---
+label: Livre
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Titre
+- type: file
+  name: banner
+  label: Image
+- type: text
+  name: author
+  label: Auteur
+- type: text
+  name: publisher
+  label: Maison d'Édition
+- type: text
+  name: summary
+  label: Extrait court
+  description: Quelques mots affiché sous l'élément en page d'accueil
+- type: text
+  name: ref_url
+  label: Réf. Achat
+  description: URL vers page boutique
