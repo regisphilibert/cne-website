@@ -4,6 +4,8 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: heading
+  label: Contenu
 - type: directory
   path: content
   label: Pages
@@ -33,6 +35,12 @@ sections:
   exclude: _index.md
   templates:
   - evenement
+- type: heading
+  label: Autres
+- type: document
+  path: data/options.yaml
+  label: Options
+  match: "**/*"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
