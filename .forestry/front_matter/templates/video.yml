@@ -1,0 +1,12 @@
+---
+label: Vidéo
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Titre
+- type: text
+  name: video_id
+  label: Identifiant de la Vidéo
+  description: 'Le code de la vidéo YouTube. Ex: KihEYwWvxuQ'
