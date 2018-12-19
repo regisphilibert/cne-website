@@ -3,6 +3,7 @@ languageCode: "fr-fr"
 title: "Comprendre notre époque"
 DefaultContentLanguage: fr
 theme: hugo-universal-theme
+MetaDataFormat: yaml
 
 taxonomies:
   type: types
