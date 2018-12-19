@@ -6,6 +6,11 @@ fields:
 - type: text
   name: title
   label: Title
+- type: datetime
+  name: date
+  label: date
+  config:
+    date_format: DD/MM/YYYY
 - type: text
   name: date_string
   label: Date explicite
@@ -21,8 +26,3 @@ fields:
   name: types
   label: Types
   description: Séminaire, Conférence etc...
-- type: datetime
-  name: date
-  label: date
-  config:
-    date_format: DD/MM/YYYY
