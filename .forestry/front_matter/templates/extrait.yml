@@ -4,6 +4,6 @@ hide_body: false
 is_partial: true
 fields:
 - type: textarea
-  description: Quelques mots affiché sous l'élément en page d'accueil
+  description: Quelques mots affichés sous l'élément en page d'accueil
   label: Description courte
   name: summary
