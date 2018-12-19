@@ -12,22 +12,25 @@ sections:
 - type: directory
   path: content/livres
   label: Livres
-  create: all
+  create: documents
   match: "**/*"
+  exclude: _index.md
   templates:
   - livre
 - type: directory
   path: content/videos
   label: Videos
-  create: all
+  create: documents
   match: "**/*"
+  exclude: _index.md
   templates:
   - video
 - type: directory
   path: content/evenements
   label: Evenements
-  create: all
+  create: documents
   match: "**/*"
+  exclude: _index.md
   templates:
   - evenement
 upload_dir: static/uploads
