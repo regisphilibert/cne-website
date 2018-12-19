@@ -6,4 +6,4 @@ fields:
 - type: textarea
   description: Quelques mots affichés sous l'élément en page d'accueil
   label: Description courte
-  name: summary
+  name: text_summary
