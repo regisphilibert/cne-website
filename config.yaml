@@ -28,6 +28,10 @@ languages:
   fr:
     languageName: Français
 menu:
+  main:
+  - name: Vidéos
+    url: "/videos/"
+    weight: 3
   topbar:
   - weight: 1
     name: Facebook
