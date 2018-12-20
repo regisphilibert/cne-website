@@ -29,9 +29,15 @@ languages:
     languageName: Français
 menu:
   main:
+  - name: Livres
+    url: "/livres/"
+    weight: 4
+  - name: Évènements
+    url: "/evenements/"
+    weight: 3
   - name: Vidéos
     url: "/videos/"
-    weight: 3
+    weight: 2
   topbar:
   - weight: 1
     name: Facebook
