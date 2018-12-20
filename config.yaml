@@ -28,13 +28,6 @@ languages:
   fr:
     languageName: Français
 menu:
-  main:
-  - name: Livres
-    weight: 3
-  - name: Évènements
-    weight: 2
-  - name: Vidéos
-    weight: 4
   topbar:
   - weight: 1
     name: Facebook
