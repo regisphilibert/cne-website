@@ -1,6 +1,6 @@
 ---
 title: "« Solastalgie » : quand la peur de l’effondrement rend malade"
-banner: ''
+banner: "/uploads/P1150599.jpg"
 author: Alice Desbiolles
 publisher: Mr Mondialisation
 ref_url: https://mrmondialisation.org/solastalgie-quand-la-peur-de-leffondrement-rend-malade/
