@@ -5,9 +5,10 @@ date_string: Du 20 Mai au 5 Juin 2019
 where: Salle Jules FERRY - Orléans
 banner: uploads/affiche_evenement.jpg
 types:
-  - Séminaire
----
+- Séminaire
+draft: true
 
+---
 Organisé par l'association "Comprendre notre époque", et accueilli par le Centre culturel, ce séminaire a pour objet de donner des repères sur les sciences sociales à chacun, afin de mieux comprendre et mieux vivre ensemble notre époque. Il se compose de trois ateliers animés par un binôme constitué d'un enseignant-chercheur en sciences sociales et d'un régulateur pouvant jouer le rôle de "passeur", de "traducteur". Les ateliers associeront les apports de connaissances et les une réflexion collective sur les implications dans la vie concrète et les problèmes rencontrés aujourd'hui.
 
 ### Atelier 1 : La sociologie et nous - Le 20 mai 2019 de 18 à 20h 
