@@ -8,7 +8,7 @@ menu:
 ---
 **Les objectifs de l'association**
 
-L'association se donne pour buts dans toutes ses actions, de répondre collectivement au questionnement suivant, et avec toutes les modalités à inventer en permanence :
+L'association se donne pour buts dans toutes ses actions, de répondre collectivement au questionnement suivant, et avec toutes les modalités à inventer en permanence:
 
 En quoi les sciences humaines et sociales peuvent-elles permettre de mieux comprendre et vivre ensemble notre époque ? Elle vise à favoriser le débat in situ, à privilégier les échanges sous forme d’interactions directes et physiques entre individus, dans un respect mutuel de tolérance et de compréhension, et sans prosélytisme.
 
