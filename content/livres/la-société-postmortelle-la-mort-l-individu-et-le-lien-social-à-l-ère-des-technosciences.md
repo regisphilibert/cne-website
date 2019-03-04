@@ -5,7 +5,7 @@ banner: "/uploads/9782021117691-475x500-1.jpg"
 author: Céline Lafontaine
 publisher: Le seuil
 ref_url: https://www.decitre.fr/ebooks/la-societe-postmortelle-9782021117691_9782021117691_1.html#resume
-text_summary: ''
+text_summary: "."
 date: 2019-03-04 09:20:26 +0100
 
 ---
