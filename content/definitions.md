@@ -6,9 +6,9 @@ menu:
     weight: 1
 
 ---
-            **Association "Comprendre notre époque"**
-
-                                **Présentation**
+            Association "Comprendre notre époque"
+    
+                     Présentation
 
 **Les objectifs de l'association**
 
