@@ -14,3 +14,5 @@ fields:
   label: Extrait
   name: extrait
   template: extrait
+pages:
+- content/videos/les-tiers-lieux-le-pari-de-la-sociabilité-michel-lussault-géographe.md
