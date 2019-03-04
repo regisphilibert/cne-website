@@ -5,7 +5,6 @@ menu:
   main:
     name: Définitions
     weight: 1
-draft: true
 
 ---
 **Notre époque.**
