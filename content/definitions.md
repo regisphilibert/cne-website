@@ -3,7 +3,6 @@ title: Présentation
 weight: 10
 menu:
   main:
-    name: Définitions
     weight: 1
 
 ---
