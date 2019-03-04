@@ -11,7 +11,6 @@ text_summary: 'Cet ouvrage de Miguel BENASAYAG rend accessible des éléments de
   ce paradigme de l''homme-machine : la gestion économique, la gestion de notre développement
   physique et psychologique, la comparaison entre l''intelligence artificielle et
   un organisme vivant, etc.'
-draft: true
 
 ---
 Mais que se passe-t-il, dans nos sociétés occidentales, pour que les Anciens de naguère soient devenus des " vieux ", que les jeunes n'aient plus le temps d'être jeunes, pour que la fragilité, les failles ne soient plus assimilées qu'à des dysfonctionnements ? Comment en est-on arrivé là ? A une époque où on nous demande de gérer nos existences comme on gère des entreprises, où les technologies digitales nous promettent de nous débarrasser des complications de la vie, ce livre s'adresse à tous ceux qui ne veulent pas céder à cette peur qui nous invite à " entrer dans la cage pour notre plus grand bonheur ".   
