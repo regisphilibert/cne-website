@@ -15,6 +15,7 @@ fields:
   name: extrait
   template: extrait
 pages:
+- content/videos/les-situations-de-travail-actuelles-et-la-dispersion-des-activités-accroissent-elles-les-risques-psycho-sociaux-dans-l-entreprise-caroline-datchary-maître-de-conférences-en-sociologie.md
 - content/videos/la-transformation-des-liens-sociaux-à-l-ère-du-numérique.md
 - content/videos/changer-le-regard-sur-le-vieillissement.md
 - content/videos/le-jeu-vidéo-vecteur-de-lien-social.md
