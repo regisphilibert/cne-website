@@ -4,7 +4,12 @@ banner: "/uploads/9782818505755-475x500-1.jpg"
 author: Edgar Morin
 publisher: Hachette Pluriel
 ref_url: https://www.decitre.fr/livres/connaissance-ignorance-mystere-9782818505755.html
-text_summary: ''
+text_summary: D'expérience, il n'est pas toujours évident et facile d'aborder nombre
+  d'ouvrage d'Edgar Morin. mais cet ouvrage d'une grande limpidité nous rappelle que
+  beaucoup de mystères restent entiers (et le resterons peut-être encore longtemps..).
+  Mais surtout, Edgar Morin nous fait réfléchir sur l'équilibre dans nos existence
+  entre la part de prosaïque et la part de poétique. Il considère, quant à lui, que
+  le prosaïque a largement pris le dessus.
 date: 2019-03-04 08:42:31 +0100
 draft: true
 
