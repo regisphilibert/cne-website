@@ -4,7 +4,7 @@ banner: "/uploads/9782021290622-475x500-1.jpg"
 author: Marc Augé
 publisher: Le Seuil
 ref_url: https://www.decitre.fr/ebooks/non-lieux-9782021290622_9782021290622_1.html
-text_summary: ''
+text_summary: "."
 date: 2019-03-04 09:06:21 +0100
 
 ---
