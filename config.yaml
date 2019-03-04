@@ -29,6 +29,8 @@ languages:
     languageName: Français
 menu:
   main:
+  - name: Qui sommes-nous ?
+    weight: 7
   - url: "/videos/"
     name: Vidéos
     weight: 4
