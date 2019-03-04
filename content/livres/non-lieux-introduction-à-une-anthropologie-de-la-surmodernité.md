@@ -13,7 +13,6 @@ text_summary: "\nPour Marc Augé, un non-lieu est l'exact contraire d'un lieu ch
   Marc AUGE, peut être trop pesant pour l'homme moderne, car enfermant.\nL'enjeu serait
   d'articuler la liberté conférée par un non-lieu et le sens apporté par un lieu."
 date: 2019-03-04 09:06:21 +0100
-draft: true
 
 ---
 Après La Traversée du Luxembourg, Un ethnologue dans le métro et Domaines et châteaux, Marc Augé poursuit son anthropologie du quotidien en explorant les non-lieux, ces espaces d'anonymat qui accueillent chaque jour des individus plus nombreux. Les non-lieux, ce sont aussi bien les installations nécessaires à la circulation accélérée des personnes et des biens (voies rapides, échangeurs, gare, aéroports) que les moyens de transport eux-mêmes (voitures trains, trains ou avions).   
