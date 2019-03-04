@@ -1,11 +1,10 @@
 ---
-title: Comprendre les sciences sociales pour s'en servir dans notre vie et nos projets
-date: 2019-05-20T20:00
-date_string: Du 20 Mai au 5 Juin 2019
-where: Salle Jules FERRY - Orléans
-banner: uploads/affiche_evenement.jpg
-types:
-- Séminaire
+title: Comment penser l'individualisme contemporain avec la philosophie ?
+date: 2019-05-18 18:00:00 +0200
+date_string: Le Samedi 18 mai 2019 de 18 à 20h.
+where: Annecy
+banner: ''
+types: []
 draft: true
 
 ---
