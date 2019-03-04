@@ -1,6 +1,6 @@
 ---
 title: La transformation des liens sociaux à l'ère du numérique
-video_id: https://www.youtube.com/watch?v=wRW--d-XdaY
+video_id: wRW--d-XdaY
 text_summary: Pour André Mondoux, le milieu des années 1970 est une période charnière
   dans l'histoire des technologie numériques. Cette décennie correspond à l'origine
   d'une transformation majeure qui a marqué la fin au monopole par l'État et les grandes
