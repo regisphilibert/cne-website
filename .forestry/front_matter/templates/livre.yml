@@ -24,6 +24,7 @@ fields:
   label: Summary
   template: extrait
 pages:
+- content/livres/aliénation-et-accélération-vers-une-théorie-critique-de-la-modernité-tardive.md
 - content/livres/la-société-postmortelle-la-mort-l-individu-et-le-lien-social-à-l-ère-des-technosciences.md
 - content/livres/solastalgie-quand-la-peur-de-l-effondrement-rend-malade.md
 - content/livres/non-lieux-introduction-à-une-anthropologie-de-la-surmodernité.md
