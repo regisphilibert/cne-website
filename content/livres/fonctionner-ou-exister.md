@@ -4,9 +4,7 @@ ref_url: https://www.decitre.fr/livres/fonctionner-ou-exister-9782746517462.html
 banner: uploads/fonctionner.jpg
 author: Miguel Benasayag
 publisher: Editions le pommier
-text_summary: |-
-  Cet ouvrage de Miguel BENASAYAG rend accessible des éléments de son œuvre, qui est riche et à découvrir par ailleurs. En montrant que nous avons tendance à nous considérer nous-mêmes et nos semblables comme des machines fonctionnant, nous finissons par oublier d'exister. Tout dans notre époque nous pousse à adopter ce paradigme de l'homme-machine : la gestion économique, la gestion de notre développement physique et psychologique, la comparaison entre l'intelligence artificielle et un organisme vivant, etc.
-  Sommes-nous prêts à assumer d'exister, avec notre part d'humain, de fragilité, de désir de culture, d'amour, etc. ?
+text_summary: ''
 
 ---
 #### **_Comité de lecture de Comprendre notre époque:_**
