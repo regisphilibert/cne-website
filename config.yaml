@@ -29,21 +29,21 @@ languages:
     languageName: Français
 menu:
   main:
-  - name: Livres
-    url: "/livres/"
+  - url: "/videos/"
+    name: Vidéos
     weight: 4
-  - name: Évènements
-    url: "/evenements/"
+  - url: "/livres/"
+    name: Livres
     weight: 3
-  - name: Vidéos
-    url: "/videos/"
+  - url: "/evenements/"
+    name: Évènements
     weight: 2
   topbar:
-  - weight: 1
-    name: Facebook
+  - pre: "<i class='fa fa-2x fa-facebook'></i>"
     url: http://facebook.com
-    pre: "<i class='fa fa-2x fa-facebook'></i>"
-  - weight: 2
-    name: Youtube
+    name: Facebook
+    weight: 1
+  - pre: "<i class='fa fa-2x fa-youtube'></i>"
     url: http://youtube.com
-    pre: "<i class='fa fa-2x fa-youtube'></i>"
+    name: Youtube
+    weight: 2
