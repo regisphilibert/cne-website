@@ -15,6 +15,7 @@ fields:
   name: extrait
   template: extrait
 pages:
+- content/videos/la-transformation-des-liens-sociaux-à-l-ère-du-numérique.md
 - content/videos/changer-le-regard-sur-le-vieillissement.md
 - content/videos/le-jeu-vidéo-vecteur-de-lien-social.md
 - content/videos/les-tiers-lieux-le-pari-de-la-sociabilité-michel-lussault-géographe.md
