@@ -6,10 +6,6 @@ menu:
     weight: 1
 
 ---
-            Association "Comprendre notre époque"
-    
-                     Présentation
-
 **Les objectifs de l'association**
 
 L'association se donne pour buts dans toutes ses actions, de répondre collectivement au questionnement suivant, et avec toutes les modalités à inventer en permanence :
