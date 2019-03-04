@@ -6,4 +6,13 @@ menu:
     weight: 5
 
 ---
-Etiam porta sem malesuada magna mollis euismod. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec ullamcorper nulla non metus auctor fringilla. Donec id elit non mi porta gravida at eget metus. Etiam porta sem malesuada magna mollis euismod. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.
+**_Comprendre Notre Epoque_** est une association loi 1901 déclarée en préfecture de Haute-Savoie en janvier 2019.
+
+Si vous souhaitez contribuer activement aux objectifs de l'association, par votre participation à la réflexion collective sur les actions et projets à développer, vous pouvez devenir membre actif.
+
+Le montant de la cotisation est de 20 Euros par an.
+
+**La marche à suivre pour adhérer :**
+
+* Vous exprimez le souhait de devenir membre actif via le formulaire de contact du site.
+* Nous vous envoyons un formulaire d'adhésion à remplir et à nous retourner, ainsi que les statuts de l'association.
