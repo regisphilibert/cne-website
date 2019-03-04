@@ -15,5 +15,6 @@ fields:
   name: extrait
   template: extrait
 pages:
+- content/videos/changer-le-regard-sur-le-vieillissement.md
 - content/videos/le-jeu-vidéo-vecteur-de-lien-social.md
 - content/videos/les-tiers-lieux-le-pari-de-la-sociabilité-michel-lussault-géographe.md
