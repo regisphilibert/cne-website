@@ -31,13 +31,13 @@ menu:
   main:
   - url: "/videos/"
     name: Vidéos
-    weight: 4
+    weight: 3
   - url: "/livres/"
     name: Livres
-    weight: 3
+    weight: 2
   - url: "/evenements/"
     name: Évènements
-    weight: 2
+    weight: 4
   topbar:
   - pre: "<i class='fa fa-2x fa-facebook'></i>"
     url: http://facebook.com
