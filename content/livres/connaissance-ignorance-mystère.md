@@ -4,7 +4,7 @@ banner: "/uploads/9782818505755-475x500-1.jpg"
 author: Edgar Morin
 publisher: Hachette Pluriel
 ref_url: https://www.decitre.fr/livres/connaissance-ignorance-mystere-9782818505755.html
-text_summary: ''
+text_summary: "."
 date: 2019-03-04 08:42:31 +0100
 
 ---
