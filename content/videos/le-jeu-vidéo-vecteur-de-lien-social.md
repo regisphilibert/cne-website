@@ -1,6 +1,6 @@
 ---
 title: Le jeu vidéo, vecteur de lien social ?
-video_id: https://www.youtube.com/watch?v=NbOICUA1Sko
+video_id: NbOICUA1Sko
 text_summary: Contrairement à ce qu'on pouvait craindre, les jeux vidéo, loin d'isoler
   ceux qui y jouent, créent de multiples formes nouvelles de liens sociaux, à condition
   pour les générations de parents et de grands-parents, de s'y intéresser également
