@@ -11,7 +11,6 @@ text_summary: Cet article nous montre que les problèmes psychologiques que l'on
   "clinique du mal-être", qui montre que les crises de l'époque influent sur les problèmes
   psychologiques de personnes en souffrance
 date: 2019-03-04 09:15:40 +0100
-draft: true
 
 ---
 Vous est-il déjà arrivé de ressentir une profonde tristesse, voire de la détresse psychique, en observant le monde autour de vous se dégrader ? Peut-être alors que vous souffrez de « solastalgie ». Alice Desbiolles, médecin de santé publique spécialisée en santé environnementale, nous explique de quoi il s’agit. Interview.
