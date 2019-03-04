@@ -4,7 +4,7 @@ banner: "/uploads/9782746506053-475x500-1-1.jpg"
 author: Michel Serres
 publisher: Le Pommier
 ref_url: https://www.decitre.fr/livres/petite-poucette-9782746506053.html#resume
-text_summary: ''
+text_summary: "."
 date: 2019-03-04 09:01:36 +0100
 
 ---
