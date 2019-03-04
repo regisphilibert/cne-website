@@ -11,7 +11,6 @@ text_summary: Céline LAFONTAINE nous fait toucher du doigt les conséquences da
   aux anciens, à notre propre vieillissement, et par conséquent, du délitement du
   lien entre générations.
 date: 2019-03-04 09:20:26 +0100
-draft: true
 
 ---
 Faire reculer la mort, agir sur ces causes, en modifier les frontières, contrôler l'ensemble de ses paramètres, comprendre son processus afin de prolonger le plus longtemps possible la vie, voire dépasser les limites temporelles assignées à l'existence humaine, tels sont les objectifs poursuivis sans relâche par les autorités scientifiques et politiques, au point que la santé est devenue l'une des préoccupations majeures de nos sociétés.   
