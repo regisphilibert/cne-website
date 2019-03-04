@@ -4,7 +4,7 @@ banner: "/uploads/P1150599.jpg"
 author: Alice Desbiolles
 publisher: Mr Mondialisation
 ref_url: https://mrmondialisation.org/solastalgie-quand-la-peur-de-leffondrement-rend-malade/
-text_summary: ''
+text_summary: "."
 date: 2019-03-04 09:15:40 +0100
 
 ---
