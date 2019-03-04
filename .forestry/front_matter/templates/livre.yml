@@ -23,3 +23,5 @@ fields:
   name: summary
   label: Summary
   template: extrait
+pages:
+- content/livres/connaissance-ignorance-mystère.md
