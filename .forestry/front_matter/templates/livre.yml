@@ -24,4 +24,5 @@ fields:
   label: Summary
   template: extrait
 pages:
+- content/livres/petite-poucette.md
 - content/livres/connaissance-ignorance-mystère.md
