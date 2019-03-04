@@ -11,7 +11,6 @@ text_summary: D'expérience, il n'est pas toujours évident et facile d'aborder 
   entre la part de prosaïque et la part de poétique. Il considère, quant à lui, que
   le prosaïque a largement pris le dessus.
 date: 2019-03-04 08:42:31 +0100
-draft: true
 
 ---
 Friedrich Schlegel déclarait : "Qui augmente sa connaissance augmente son ignorance." "Je vis de plus en plus avec la conscience et le sentiment de la présence de l'inconnu dans le connu, de l'énigme dans le banal, du mystère en toute chose et, notamment, des avancées d'une nouvelle ignorance dans chaque avancée de la connaissance", nous dit Edgar Morin. Ainsi a-t-il entrepris de patrouiller dans les territoires nouveaux de la connaissance, où se révèle un trio inséparable : connaissance, ignorance, mystère.
