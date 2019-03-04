@@ -5,6 +5,7 @@ banner: uploads/Happycratie.jpg
 subtitle: Comment l'industrie du bonheur a pris le contrôle de nos vies
 author: Eva Illouz
 publisher: Editions premier parallèle
+text_summary: "."
 
 ---
 #### **_Comité de lecture de Comprendre notre époque:_**
