@@ -5,11 +5,7 @@ banner: "/uploads/9782021117691-475x500-1.jpg"
 author: Céline Lafontaine
 publisher: Le seuil
 ref_url: https://www.decitre.fr/ebooks/la-societe-postmortelle-9782021117691_9782021117691_1.html#resume
-text_summary: Céline LAFONTAINE nous fait toucher du doigt les conséquences dans notre
-  vie de tous les jours, de l'évitement et du déni du vieillissement et de la fin
-  de la vie. Cet état de fait entraîne une multitude de conséquences dans notre rapport
-  aux anciens, à notre propre vieillissement, et par conséquent, du délitement du
-  lien entre générations.
+text_summary: ''
 date: 2019-03-04 09:20:26 +0100
 
 ---
