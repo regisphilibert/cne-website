@@ -1,6 +1,6 @@
 ---
 title: Changer le regard sur le vieillissement
-video_id: https://www.youtube.com/watch?v=V14O_dvCupo
+video_id: V14O_dvCupo
 text_summary: 'De nos jours, le vieillissement pathologique est statistiquement minoritaire,
   mais la retraite est perçue comme une pré-sortie de la vie. Refusant de se voir
   mis au repos aux marges de la société, nombreux sont les retraités qui préfèrent
