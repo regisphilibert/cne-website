@@ -5,7 +5,6 @@ banner: uploads/Happycratie.jpg
 subtitle: Comment l'industrie du bonheur a pris le contrôle de nos vies
 author: Eva Illouz
 publisher: Editions premier parallèle
-draft: true
 
 ---
 Le bonheur se construirait, s'enseignerait et s'apprendrait : telle est l'idée à laquelle la psychologie positive prétend conférer une légitimité scientifique. Il suffirait d'écouter les experts et d'appliquer leurs techniques pour devenir heureux. L'industrie du bonheur, qui brasse des milliards d'euros, affirme ainsi pouvoir façonner les individus en créatures capables de faire obstruction aux sentiments négatifs, de tirer le meilleur parti d'elles-mêmes en maîtrisant leurs désirs improductifs et leurs pensées défaitistes.   
