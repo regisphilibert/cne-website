@@ -8,7 +8,7 @@ text_summary: "."
 date: 2019-03-04 09:01:36 +0100
 
 ---
-#### **_Comité de lecture de Comprendre notre époque:_**
+#### **_COMITE DE LECTURE DE COMPRENDRE NOTRE EPOQUE:_**
 
 Cet ouvrage de Michel SERRES est d'une grande limpidité. Il montre notamment comment beaucoup d'enseignants continuent à lire en amphi des polycopiés qu'ils ont distribué aux étudiants, alors que ceux-ci seraient tout-à-fait capables d'aller chercher l'information sur Internet par eux-mêmes.
 
