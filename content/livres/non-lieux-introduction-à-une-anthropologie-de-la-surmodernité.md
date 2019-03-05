@@ -8,7 +8,7 @@ text_summary: "."
 date: 2019-03-04 09:06:21 +0100
 
 ---
-#### **_Comité de lecture de Comprendre notre époque:_**
+#### **_COMITE DE LECTURE DE COMPRENDRE NOTRE EPOQUE:_**
 
 Pour Marc Augé, un non-lieu est l'exact contraire d'un lieu chargé de sens. C'est un endroit dont sont absents la relation aux autres, la reconnaissance de l'identité et une histoire commune. Se trouver pour une heure dans un aéroport, type même du non-lieu peut être agréable ou grisant. Mais vivre en permanence dans des non-lieux, c'est la solitude garantie.
 
