@@ -8,7 +8,7 @@ text_summary: "."
 date: 2019-03-04 09:15:40 +0100
 
 ---
-#### **_COMITE DE LECTURE DE COMPRENDRE NOTRE EPOQUE:_**
+#### **_COMITE DE LECTURE COMPRENDRE NOTRE EPOQUE:_**
 
 Cet article nous montre que les problèmes psychologiques que l'on peut avoir ne viennent pas uniquement des parents, de son enfance, etc. mais peuvent avoir des origines dans ce qui se passe dans notre époque. Ce constat établit un lien avec la thèse de Miguel BENASAYAG dans plusieurs de ses ouvrages, notamment "clinique du mal-être", qui montre que les crises de l'époque influent sur les problèmes psychologiques de personnes en souffrance.
 
