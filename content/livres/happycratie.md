@@ -8,7 +8,7 @@ publisher: Editions premier parallèle
 text_summary: "."
 
 ---
-#### **_COMITE DE LECTURE DE COMPRENDRE NOTRE EPOQUE:_**
+#### **_COMITE DE LECTURE COMPRENDRE NOTRE EPOQUE:_**
 
 Cet ouvrage montre très clairement comment la psychologie positive, née aux États-Unis il y a quelques années, n'est fondée sur aucune base scientifique, tout en l'affirmant. Cette psychologie positive défend une vision du bonheur individualiste qui tend à déliter le lien social et le sens du collectif. Chacun est sommé implicitement de faire son propre bonheur. Beaucoup d'approches actuelles de développement personnel (La méditation, les trois kifs du jour, le courant de promotion de l'optimisme, etc.) découlent de ce courant de la pensée positive, constituées à la base d'injonction à être heureux.Les auteurs démontrent qu'à l'extrême, sur des personnes fragiles, cela peut même accroître un état dépressif. Ils concluent en nous interpellant sur la question de savoir si c'est cette société que nous souhaitons.
 
