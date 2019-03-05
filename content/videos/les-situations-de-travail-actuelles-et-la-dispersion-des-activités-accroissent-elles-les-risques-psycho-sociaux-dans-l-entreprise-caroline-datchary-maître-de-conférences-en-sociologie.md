@@ -1,5 +1,5 @@
 ---
-title: comment qualifier la dispersion par rapport à la notion de burnout ?
+title: Comment qualifier la dispersion par rapport à la notion de burnout ?
 video_id: u6GkdpkhVs4
 text_summary: ''
 date: 2019-03-04 10:34:39 +0100
