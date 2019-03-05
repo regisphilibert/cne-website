@@ -9,7 +9,7 @@ text_summary: "."
 date: 2019-03-04 09:20:26 +0100
 
 ---
-#### **_COMITE DE LECTURE DE COMPRENDRE NOTRE EPOQUE:_**
+#### **_COMITE DE LECTURE COMPRENDRE NOTRE EPOQUE:_**
 
 Céline LAFONTAINE nous fait toucher du doigt les conséquences dans notre vie de tous les jours, de l'évitement et du déni du vieillissement et de la fin de la vie. Cet état de fait entraîne une multitude de conséquences dans notre rapport aux anciens, à notre propre vieillissement, et par conséquent, du délitement du lien entre générations.
 
