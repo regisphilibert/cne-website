@@ -16,5 +16,7 @@ Ce dont ont besoin les petites poucettes de Michel SERRES, ce n'est pas d'inform
 
 ***
 
+#### **_Résumé:_**
+
 Le monde a tellement changé que les jeunes se doivent de tout réinventer ! Pour Michel Serres, un nouvel humain est né, il le baptise "Petite Poucette", notamment pour sa capacité à envoyer des messages avec son pouce. Nos sociétés occidentales ont déjà vécu deux révolutions : le passage de l'oral à l'écrit, puis de l'écrit à l'imprimé. Comme chacune des précédentes, la troisième, - le passage aux nouvelles technologies - tout aussi majeure, s'accompagne de mutations politiques, sociales et cognitives.  
 Ce sont des périodes de crises. Devant ces métamorphoses, suspendons notre jugement. Ni progrès, ni catastrophe, ni bien ni mal, c'est la réalité et il faut faire avec. Petite Poucette va devoir réinventer une manière de vivre ensemble, des institutions, une manière d'être et de connaître... mais il faut lui faire confiance !
