@@ -8,7 +8,7 @@ publisher: Editions  LGF/Livre de Poche
 text_summary: "."
 
 ---
-#### **_COMITE DE LECTURE DE COMPRENDRE NOTRE EPOQUE:_**
+#### **_COMITE DE LECTURE COMPRENDRE NOTRE EPOQUE:_**
 
 L'auteure montre comment le manque de courage au jour de le jour, les petits renoncements, peu à peu détruisent le lien social. Ne pas avoir le courage de demander à une personne qui téléphone fort dans un train, ne pas avoir le courage de dire à une personne qu'elle a un propos raciste dans une soirée, ne pas avoir le courage de soutenir un collègue qui est mis de côté par sa hiérarchie, etc.
 
