@@ -14,6 +14,8 @@ D'expérience, il n'est pas toujours évident et facile d'aborder nombre d'ouvra
 
 ***
 
+#### **_Résumé:_**
+
 Friedrich Schlegel déclarait : "Qui augmente sa connaissance augmente son ignorance." "Je vis de plus en plus avec la conscience et le sentiment de la présence de l'inconnu dans le connu, de l'énigme dans le banal, du mystère en toute chose et, notamment, des avancées d'une nouvelle ignorance dans chaque avancée de la connaissance", nous dit Edgar Morin. Ainsi a-t-il entrepris de patrouiller dans les territoires nouveaux de la connaissance, où se révèle un trio inséparable : connaissance, ignorance, mystère.
 
 Testament scientifique et poétique, cet ouvrage fait dialoguer la philosophie des sciences avec le mystère : "Les progrès du savoir produisent une nouvelle et très profonde ignorance, car toutes les avancées des sciences de l'univers débouchent sur de l'inconnu."
