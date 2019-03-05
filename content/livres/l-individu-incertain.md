@@ -15,7 +15,7 @@ text_summary: Jean-Luc GODARD, dans son film de la nouvelle vague "Pierrot le fo
 date: 2019-03-04 09:32:39 +0100
 
 ---
-#### **_Comité de lecture de Comprendre notre époque:_**
+#### **_COMITE DE LECTURE DE COMPRENDRE NOTRE EPOQUE:_**
 
 Jean-Luc GODARD, dans son film de la nouvelle vague "Pierrot le fou", sorti en 1965, faisait dire à Anna Karina " Qu'est-ce que je peux faire, je sais pas quoi faire ?" Il illustrait métaphoriquement à sa manière le propos du livre d'Alain Ehrenberg. L'individu incertain, c'est celui qui doit donner un sens à sa vie par lui-même, à partir de son individualisme. Alors que les générations passées étaient prises dans des obligations diverses, familiales, sociétales, etc. qui généraient des névroses mais constituaient en même temps un cadre rassurant, l'individu actuel risque plutôt la déprime, faute de trouver un sens à sa vie.
 
