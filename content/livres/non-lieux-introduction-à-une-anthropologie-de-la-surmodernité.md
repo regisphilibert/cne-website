@@ -18,6 +18,8 @@ L'enjeu serait d'articuler la liberté conférée par un non-lieu et le sens app
 
 ***
 
+#### **_Résumé:_**
+
 Après La Traversée du Luxembourg, Un ethnologue dans le métro et Domaines et châteaux, Marc Augé poursuit son anthropologie du quotidien en explorant les non-lieux, ces espaces d'anonymat qui accueillent chaque jour des individus plus nombreux. Les non-lieux, ce sont aussi bien les installations nécessaires à la circulation accélérée des personnes et des biens (voies rapides, échangeurs, gare, aéroports) que les moyens de transport eux-mêmes (voitures trains, trains ou avions).  
 Mais également les grandes chaînes hôtelières aux chambres interchangeables, les supermarchés ou encore, différemment, les camps de transit prolongé où sont parqués les réfugiés de la planète. Le non-lieu est donc tout le contraire d'une demeure, d'une résidence, d'un lieu au sens commun du terme. Seul, mais semblable aux autres, l'utilisateur du non-lieu entretient avec celui-ci une relation contractuelle symbolisée par le billet de train ou d'avion, la carte présentée au péage ou même au chariot poussé dans les travées d'une grande surface.  
 Dans ces non-lieux, on ne conquiert son anonymat qu'en fournissant la preuve de son identité - passeport, carte de crédit, chèque ou tout autre permis qui en autorise l'accès. Attentif à l'usage des mots, relisant les lieux décrits par Châteaubriand, Baudelaire ou les " passages " parisiens de Walter Benjamin, l'ethnologue remarque que l'on peut se croiser à un carrefour alors que l'échangeur interdit toute rencontre.  
