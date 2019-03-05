@@ -7,7 +7,7 @@ publisher: Editions le pommier
 text_summary: ''
 
 ---
-#### **_Comité de lecture de Comprendre notre époque:_**
+#### **_COMITE DE LECTURE DE COMPRENDRE NOTRE EPOQUE:_**
 
 Cet ouvrage de Miguel BENASAYAG rend accessible des éléments de son œuvre, qui est riche et à découvrir par ailleurs. En montrant que nous avons tendance à nous considérer nous-mêmes et nos semblables comme des machines fonctionnant, nous finissons par oublier d'exister. Tout dans notre époque nous pousse à adopter ce paradigme de l'homme-machine : la gestion économique, la gestion de notre développement physique et psychologique, la comparaison entre l'intelligence artificielle et un organisme vivant, etc.
 
