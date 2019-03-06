@@ -8,7 +8,7 @@ menu:
 ---
 **Les objectifs de l'association**
 
-L'association se donne pour buts dans toutes ses actions, de répondre collectivement au questionnement suivant, et avec toutes les modalités à inventer en permanence:
+L'association se donne pour buts dans toutes ses actions, de répondre collectivement au questionnement suivant :
 
 En quoi les sciences humaines et sociales peuvent-elles permettre de mieux comprendre et vivre ensemble notre époque ? Elle vise à favoriser le débat in situ, à privilégier les échanges sous forme d’interactions directes et physiques entre individus, dans un respect mutuel de tolérance et de compréhension, et sans prosélytisme.
 
@@ -44,7 +44,7 @@ Si l’on excepte les chercheurs inscrits dans une perspective critique, pour le
 
 **Le besoin de ponts, de traductions, de passages, de passeurs**
 
-D'un côté, un certain nombre d'entre nous qui ignorent ou rejettent les sciences humaines et sociales, sans se douter qu’elles peuvent les aider à mettre des mots sur ce qu’ils vivent et mettent en œuvre comme solutions et pratiques pour mieux vivre.
+D'un côté, un certain nombre d'entre nous ignorent ou rejettent les sciences humaines et sociales, sans se douter qu’elles peuvent les aider à mettre des mots sur ce qu’ils vivent.
 
 De l'autre côté, beaucoup de chercheurs et enseignants travaillant pour faire progresser la connaissance théorique, ce qui est fondamental, mais dans une posture souvent surplombante, et qui ne prennent pas assez en compte l'expérience vécue de leurs contemporains.
 

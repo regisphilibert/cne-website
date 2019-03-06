@@ -1,7 +1,6 @@
 ---
 label: Extrait
 hide_body: false
-is_partial: true
 fields:
 - type: textarea
   description: Quelques mots affichés sous l'élément en page d'accueil
