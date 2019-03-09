@@ -10,7 +10,7 @@ date: 2019-03-04 08:42:31 +0100
 ---
 #### **_COMITE DE LECTURE COMPRENDRE NOTRE EPOQUE :_**
 
-D'expérience, il n'est pas toujours évident et facile d'aborder nombre d'ouvrage d'Edgar Morin. mais cet ouvrage d'une grande limpidité nous rappelle que beaucoup de mystères restent entiers (et le resterons peut-être encore longtemps..). Mais surtout, Edgar Morin nous fait réfléchir sur l'équilibre dans nos existence entre la part de prosaïque et la part de poétique. Il considère, quant à lui, que le prosaïque a largement pris le dessus.
+D'expérience, il n'est pas toujours évident et facile d'aborder nombre d'ouvrages d'Edgar Morin. Mais cet ouvrage d'une grande limpidité nous rappelle que beaucoup de mystères restent entiers (et le resteront peut-être encore longtemps...). Mais surtout, Edgar Morin nous fait réfléchir sur l'équilibre dans nos existences entre la part de prosaïque et la part de poétique. Il considère, quant à lui, que le prosaïque a largement pris le dessus.
 
 ***
 
