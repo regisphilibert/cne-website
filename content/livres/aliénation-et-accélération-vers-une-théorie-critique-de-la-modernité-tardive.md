@@ -10,7 +10,7 @@ date: 2019-03-04 09:28:21 +0100
 ---
 #### **_COMITE DE LECTURE COMPRENDRE NOTRE EPOQUE :_**
 
-Harmut ROSA montre que l'accélération incessante actuelle est très liée à la fin des grands récits pour une grande partie de nos contemporains (Utopies, paradis, mythe du progrès, etc.). Ces récits nous promettaient des lendemains qui chantent, une vie meilleure de la société, l'éternité, etc. et nous pouvions patienter, accepter notre sort lorsqu'il était difficile, l'espoir étant permis. Aujourd'hui, beaucoup veulent profiter, voir, voyager, découvrir, faire le plus d'expériences possibles dans cette vie. Ce désir entraîne une accélération et, par voie de conséquence, des frustrations.
+Harmut ROSA montre que l'accélération incessante actuelle est très liée à la fin des grands récits pour une grande partie de nos contemporains (utopies, paradis, mythe du progrès, etc.). Ces récits nous promettaient des lendemains qui chantent, une vie meilleure de la société, l'éternité, etc. et nous pouvions patienter, accepter notre sort lorsqu'il était difficile, l'espoir étant permis. Aujourd'hui, beaucoup veulent profiter, voir, voyager, découvrir, faire le plus d'expériences possibles dans cette vie. Ce désir entraîne une accélération et, par voie de conséquence, des frustrations.
 
 Ce tourbillon devient aliénant, nous emportant toujours plus vite, sans pouvoir goûter les joies simples, les petits bonheurs.
 
