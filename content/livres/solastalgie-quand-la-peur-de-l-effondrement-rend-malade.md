@@ -14,6 +14,6 @@ Cet article nous montre que les problèmes psychologiques que l'on peut avoir ne
 
 ***
 
-#### **_Résumé:_**
+#### **_Résumé :_**
 
 Vous est-il déjà arrivé de ressentir une profonde tristesse, voire de la détresse psychique, en observant le monde autour de vous se dégrader ? Peut-être alors que vous souffrez de « solastalgie ». Alice Desbiolles, médecin de santé publique spécialisée en santé environnementale, nous explique de quoi il s’agit. Interview.
