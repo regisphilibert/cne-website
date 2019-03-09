@@ -18,7 +18,7 @@ Comme si, au lieu d'acquérir une certaine sagesse, nous nous éloignions toujou
 
 ***
 
-#### **_Résumé:_**
+#### **_Résumé :_**
 
 La vie moderne est une constante accélération. Jamais auparavant les moyens permettant de gagner du temps n'avaient atteint pareil niveau de développement, grâce aux technologies de production et de communication ; pourtant, jamais l'impression de manquer de temps n'a été si répandue. Dans toutes les sociétés occidentales, les individus souffrent toujours plus du manque de temps et ont le sentiment de devoir courir toujours plus vite, non pas pour atteindre un objectif mais simplement pour rester sur place.  
 Ce livre examine les causes et les effets des processus d'accélération propres à la modernité, tout en élaborant une théorie critique de la temporalité dans la modernité tardive. Dans le sillage de son ouvrage Accélération (La Découverte, 2010), dont il reprend ici le cœur du propos de manière synthétique, Hartmut Rosa apporte de nouveaux éléments en rediscutant la question de l'aliénation à la lumière de la vie accélérée.  
