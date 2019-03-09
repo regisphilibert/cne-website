@@ -12,7 +12,7 @@ date: 2019-03-04 09:01:36 +0100
 
 Cet ouvrage de Michel SERRES est d'une grande limpidité. Il montre notamment comment beaucoup d'enseignants continuent à lire en amphi des polycopiés qu'ils ont distribué aux étudiants, alors que ceux-ci seraient tout-à-fait capables d'aller chercher l'information sur Internet par eux-mêmes.
 
-Ce dont ont besoin les petites poucettes de Michel SERRES, ce n'est pas d'information et de connaissance, mais de formation de l'esprit. C'est le grand défi de ce XXIème siècle !
+Ce dont ont besoin les petites poucettes de Michel Serres, ce n'est pas d'information et de connaissance, mais de formation de l'esprit. C'est le grand défi de ce XXIème siècle !
 
 ***
 
