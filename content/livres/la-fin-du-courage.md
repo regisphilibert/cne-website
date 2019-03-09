@@ -10,11 +10,11 @@ text_summary: "."
 ---
 #### **_COMITE DE LECTURE COMPRENDRE NOTRE EPOQUE :_**
 
-L'auteure montre comment le manque de courage au jour de le jour, les petits renoncements, peu à peu détruisent le lien social. Ne pas avoir le courage de demander à une personne qui téléphone fort dans un train, ne pas avoir le courage de dire à une personne qu'elle a un propos raciste dans une soirée, ne pas avoir le courage de soutenir un collègue qui est mis de côté par sa hiérarchie, etc.
+L'auteure montre comment le manque de courage au jour le jour, les petits renoncements, peu à peu détruisent le lien social. Ne pas avoir le courage de demander à une personne qui téléphone fort dans un train, ne pas avoir le courage de dire à une personne qu'elle a un propos raciste dans une soirée, ne pas avoir le courage de soutenir un collègue qui est mis de côté par sa hiérarchie, etc.
 
 Pour Cynthia FLEURY, le courage s'exprime par la parrhèsia (le parler-vrai, la liberté de parole en grec), séance tenante face à chaque situation.
 
-Au fond, elle fait le lien entre l'abandon assez généralisé d'une vertu et le délitement du lien social et l'engagement collectif
+Au fond, elle fait le lien entre l'abandon assez généralisé d'une vertu et le délitement du lien social et l'engagement collectif.
 
 ***
 
