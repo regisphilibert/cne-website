@@ -5,6 +5,7 @@ date_string: Le Samedi 18 mai 2019 de 18 à 20h.
 where: Annecy
 banner: ''
 types: []
+draft: true
 
 ---
 Organisé par l'association "Comprendre notre époque", et accueilli par le Centre culturel, ce séminaire a pour objet de donner des repères sur les sciences sociales à chacun, afin de mieux comprendre et mieux vivre ensemble notre époque. Il se compose de trois ateliers animés par un binôme constitué d'un enseignant-chercheur en sciences sociales et d'un régulateur pouvant jouer le rôle de "passeur", de "traducteur". Les ateliers associeront les apports de connaissances et les une réflexion collective sur les implications dans la vie concrète et les problèmes rencontrés aujourd'hui.
