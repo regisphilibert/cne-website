@@ -13,7 +13,7 @@ params:
   logo: img/logo_cne_text.png
   logo_small: img/logo_cne_text.png
   topbar:
-    enable: true
+    enable: false
     text: contact@comprendrenotreepoque.com
   carousel:
     enable: false
