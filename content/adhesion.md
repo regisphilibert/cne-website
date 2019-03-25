@@ -12,7 +12,7 @@ Si vous souhaitez contribuer aux objectifs de l'association, par votre participa
 
 **Le montant de la cotisation est de 20 Euros par an.**
 
-Proposer des livres au comité de lecture pour validation, à placer sur le site Internet de l'association.
+En tant qu'adhérent de l'association, vous pourrez :          Proposer des livres au comité de lecture pour validation, à placer sur le site Internet de l'association.
 
 Proposer des vidéos au comité de visionnage pour validation, à placer sur le site Internet de l'association.
 
