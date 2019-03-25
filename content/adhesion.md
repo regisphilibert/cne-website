@@ -31,7 +31,7 @@ _Le montant de la cotisation est de 20 Euros par an._
 
 **Pour adhérer :**
 
-* Vous exprimez le souhait de devenir membre actif via le formulaire de contact du site
+* Vous exprimez le souhait de devenir membre actif via le formulaire de contact du site.
 
 
 * Nous vous envoyons un formulaire d'adhésion à remplir et à nous retourner, ainsi que les statuts de l'association.
