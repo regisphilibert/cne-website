@@ -4,7 +4,6 @@ date: 2018-12-19 21:03:36 +0000
 menu:
   main:
     weight: 5
-draft: true
 
 ---
 **_Comprendre Notre Epoque _**est une association loi 1901 déclarée en préfecture de Haute-Savoie en janvier 2019
@@ -23,7 +22,7 @@ En tant qu'adhérent de l'association, vous pourrez :
 
 \- Assister aux assemblées générales de l'association.
 
-\- Participer par vos votes à la marche de l'association.
+\- Participer par vos votes à la marche de l'association
 
 Pour adhérer :
 
