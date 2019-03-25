@@ -1,24 +1,29 @@
 ---
-title: Comment penser l'individualisme contemporain avec la philosophie ?
-date: 2019-05-18 18:00:00 +0200
-date_string: Le Samedi 18 mai 2019 de 18 à 20h.
-where: Annecy
+title: LA PSYCHOLOGIE POSITIVE PEUT-ELLE FAIRE NOTRE BONHEUR ?
+date: 2019-05-18 16:00:00 +0000
+date_string: Le samedi 18 mai 2019 à 18h00.
+where: Compagnie BROZZONI                                              2 rue des Aravis
+  - 74000 Annecy
 banner: ''
 types: []
 
 ---
-Organisé par l'association "Comprendre notre époque", et accueilli par le Centre culturel, ce séminaire a pour objet de donner des repères sur les sciences sociales à chacun, afin de mieux comprendre et mieux vivre ensemble notre époque. Il se compose de trois ateliers animés par un binôme constitué d'un enseignant-chercheur en sciences sociales et d'un régulateur pouvant jouer le rôle de "passeur", de "traducteur". Les ateliers associeront les apports de connaissances et les une réflexion collective sur les implications dans la vie concrète et les problèmes rencontrés aujourd'hui.
+**LA PSYCHOLOGIE POSITIVE PEUT-ELLE FAIRE NOTRE BONHEUR ?**
 
-### Atelier 1 : La sociologie et nous - Le 20 mai 2019 de 18 à 20h 
-Animé par Alain RAINETOU - Sociologue et Olivier BELLON - Régulateur
-Qu'est-ce que la sociologie ? Quel intérêt de comprendre mieux les phénomènes de socialisation, de norme sociale, de contrôle social, etc. ?
+**Discussion-débat autour d'un livre, animée par Michel Bellaïche, Président de _Comprendre notre époque_, et Raphaël VILLIEN, Professeur de philosophie**
 
-### Atelier 2 : La démographie et nous - Le 5 juin 2019 de 18 à 20h 
-Animé par Fatima ZEM - Sociologue et Michel BELLAÏCHE - Régulateur
-Qu'est-ce que la démographie ? Quel intérêt de comprendre mieux les phénomènes démographiques actuels et dans l'histoire ? Sommes-nous issus de phénomènes démographiques ? En quoi cela joue sur nos existences ? etc.
+Entrée gratuite
 
-### Atelier 3 : L'anthropologie et nous - Le 20 mai 2019 de 18 à 20h 
-Animé par Stéphane FARG - Sociologue et Michel BELLAÏCHE - Régulateur
-Quel intérêt de comprendre mieux les fondamentaux de l'anthropologie, le sens que donne un collectif à sa vie en société, les liens familiaux , etc. et en quoi cela permet de mieux comprendre ce qui se joue aujourd'hui avec un regard anthropologique ?
+**Samedi 18 mai 2019 à 18h**- Lieu : Compagnie BROZZONI         2 rue des Aravis - 74000 Annecy.
 
-__Attention : Places limitées - Inscription obligatoire par mail (formulaire). Vous recevrez une confirmation dans la limite des places disponibles__
+**Le livre : Happycratie - Comment l'industrie du bonheur a pris le contrôle de nos vies**
+
+Pour les auteurs Eva Illouz, sociologue et Edgar Cabanas, psychologue, l'industrie du bonheur affirme pouvoir façonner des individus capables de faire obstruction aux sentiments négatifs, de tirer le meilleur parti d'eux-mêmes en maîtrisant leurs désirs improductifs et leurs pensées défaitistes.
+
+Cette industrie s'appuie fortement sur la psychologie positive qui prétend se conférer une légitimité scientifique.
+
+Les auteurs reconstituent les origines de cette nouvelle "science" et explorent les implications d'un des phénomènes les plus captivants et inquiétants de ce début de siècle.
+
+Peut-on faire du bonheur un produit de consommation comme un autre ? Devenons-nous plus heureux pour autant ? Cela peut-il avoir des effets inverses ? Et, au fond, en quoi cette forme de quête du bonheur est-elle liée aux conditions de notre époque ?
+
+**_Attention : places limitées - Inscription obligatoire par mail - Remplir le formulaire de contact en indiquant que vous vous inscrivez à cet évènement. Vous recevrez une confirmation dans la limite des places disponibles._**
