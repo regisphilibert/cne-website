@@ -8,8 +8,6 @@ banner: ''
 types: []
 
 ---
-**LA PSYCHOLOGIE POSITIVE PEUT-ELLE FAIRE NOTRE BONHEUR ?**
-
 **Discussion-débat autour d'un livre, animée par Michel Bellaïche, Président de _Comprendre notre époque_, et Raphaël VILLIEN, Professeur de philosophie**
 
 Entrée gratuite
