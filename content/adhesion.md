@@ -11,9 +11,9 @@ draft: true
 
 Si vous souhaitez contribuer aux objectifs de l'association, par votre participation à la réflexion collective sur les actions et projets à développer, ou simplement pour la soutenir, vous pouvez devenir membre actif.
 
-**Le montant de la cotisation est de 20 Euros par an.**
+_Le montant de la cotisation est de 20 Euros par an._
 
-En tant qu'adhérent de l'association, vous pourrez :                                                                    
+**En tant qu'adhérent de l'association, vous pourrez :**                                                                    
 
 * Proposer des livres au comité de lecture pour validation, à placer sur le site Internet de l'association.
 
@@ -29,8 +29,9 @@ En tant qu'adhérent de l'association, vous pourrez :
 
 * Participer par vos votes à la marche de l'association.              
 
-Pour adhérer :
+**Pour adhérer :**
 
-Vous exprimez le souhait de devenir membre actif via le formulaire de contact du site
+* Vous exprimez le souhait de devenir membre actif via le formulaire de contact du site
 
-Nous vous envoyons un formulaire d'adhésion à remplir et à nous retourner, ainsi que les statuts de l'association.
+
+* Nous vous envoyons un formulaire d'adhésion à remplir et à nous retourner, ainsi que les statuts de l'association.
