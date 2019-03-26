@@ -8,7 +8,7 @@ banner: ''
 types: []
 
 ---
-**Discussion-débat autour d'un livre, animée par Michel Bellaïche, Président de _Comprendre notre époque_, et Raphaël VILLIEN, Professeur de philosophie**
+**Discussion-débat autour d'un livre, animée par Michel Bellaïche, Président de _Comprendre notre époque_, et Raphaël Villien, Professeur de philosophie**
 
 Entrée gratuite
 
