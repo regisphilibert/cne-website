@@ -5,6 +5,5 @@ date_string: sdfazgsze
 where: sdgsqedsdgsdg
 banner: ''
 types: []
-draft: true
 
 ---
