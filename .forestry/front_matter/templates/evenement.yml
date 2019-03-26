@@ -27,3 +27,5 @@ fields:
   name: types
   label: Types
   description: Séminaire, Conférence etc...
+pages:
+- content/evenements/un-test.md
