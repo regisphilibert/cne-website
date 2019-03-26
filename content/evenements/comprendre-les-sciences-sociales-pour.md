@@ -24,4 +24,4 @@ Les auteurs reconstituent les origines de cette nouvelle "science" et explorent 
 
 Peut-on faire du bonheur un produit de consommation comme un autre ? Devenons-nous plus heureux pour autant ? Cela peut-il avoir des effets inverses ? Et, au fond, en quoi cette forme de quête du bonheur est-elle liée aux conditions de notre époque ?
 
-**_Attention : places limitées - Inscription obligatoire par mail - Remplir le formulaire de contact en indiquant que vous vous inscrivez à cet évènement. Vous recevrez une confirmation dans la limite des places disponibles._**
+**_Attention : places limitées - Inscription obligatoire par mail - Remplir le formulaire de contact en indiquant que vous vous inscrivez à cet événement. Vous recevrez une confirmation dans la limite des places disponibles._**
