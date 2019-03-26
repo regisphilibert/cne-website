@@ -27,5 +27,3 @@ fields:
   name: types
   label: Types
   description: Séminaire, Conférence etc...
-pages:
-- content/evenements/sdfqsdf.md
