@@ -23,7 +23,6 @@ fields:
   label: Summary
   template: extrait
 pages:
-- content/livres/zertzertzertz.md
 - content/livres/connaissance-ignorance-mystère.md
 - content/livres/aliénation-et-accélération-vers-une-théorie-critique-de-la-modernité-tardive.md
 - content/livres/l-individu-incertain.md
