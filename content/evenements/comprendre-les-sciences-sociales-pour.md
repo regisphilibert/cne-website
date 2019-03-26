@@ -2,8 +2,8 @@
 title: LA PSYCHOLOGIE POSITIVE PEUT-ELLE FAIRE NOTRE BONHEUR ?
 date: 2019-05-18 16:00:00 +0000
 date_string: Le samedi 18 mai 2019 à 18h00.
-where: Compagnie BROZZONI                                              2 rue des Aravis
-  - 74000 Annecy
+where: Compagnie BROZZONI                                                                     2
+  rue des Aravis - 74000 Annecy
 banner: ''
 types: []
 
@@ -12,7 +12,7 @@ types: []
 
 Entrée gratuite
 
-**Samedi 18 mai 2019 à 18h**- Lieu : Compagnie BROZZONI         2 rue des Aravis - 74000 Annecy.
+**Samedi 18 mai 2019 à 18h**- Lieu : Compagnie BROZZONI, 2 rue des Aravis - 74000 Annecy.
 
 **Le livre : Happycratie - Comment l'industrie du bonheur a pris le contrôle de nos vies**
 
