@@ -25,3 +25,5 @@ Il rappelle que dans l'histoire, le grand âge pouvait soit être synonyme de sa
 Le regard anthropologique nous enseigne que le regard que nous avons sur la vieillesse n'est pas naturel et le même de tous temps, il est une construction sociale.
 
 Le traitement vécu et subi par nos anciens aujourd'hui nous satisfait-il ? En quoi il est significatif de notre époque ? Peut-on porter un autre regard ?
+
+**_Attention : Places limitées - Inscription obligatoire par mail - Remplir le formulaire de contact en indiquant que vous vous inscrivez à cet événement. Vous recevrez une confirmation dans la limite des places disponibles, et l'article de Jean FOUCART._**
