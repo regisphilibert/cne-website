@@ -1,6 +1,6 @@
 ---
 title: LA PSYCHOLOGIE POSITIVE PEUT-ELLE FAIRE NOTRE BONHEUR ?
-date: 2019-05-18 16:00:00 +0000
+date: 2019-05-18 18:00:00 +0200
 date_string: Le samedi 18 mai 2019 à 18h00.
 where: Compagnie BROZZONI,                                                                    2
   rue des Aravis - 74000 Annecy
