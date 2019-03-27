@@ -12,6 +12,8 @@ draft: true
 ---
 _Discussion-débat **autour d'un article** de Jean Foucart, Docteur en Sociologie et chargé de cours à la Haute Ecole Charleroi-Europe, "La vieillesse, une construction sociale", animée par Michel Bellaïche, Président de Comprendre notre époque._
 
+_Date : 17 juin 2019 à 18h - Lieu : Maison des Familles de Lyon - 50-52 cours Charlemagne, 69002 Lyon_
+
 **_Entrée Gratuite._**
 
 Dans son texte, Jean FOUCART nous fait remarquer à quel point le vocabulaire que nous employons influence nos représentations et nos comportements. Faut-il appeler nos anciens des personnes âgées, du troisième ou quatrième âge, des vieux, etc. ?
