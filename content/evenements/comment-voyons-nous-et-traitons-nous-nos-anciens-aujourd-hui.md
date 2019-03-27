@@ -14,7 +14,7 @@ draft: true
 
 _Entrée Gratuite._
 
-**Date : 17 juin 2019 à 18h** - Lieu : Maison des Familles de Lyon - 50-52 cours Charlemagne, 69002 Lyon
+**Date : 17 juin 2019 à 18h** - Lieu : Maison des Familles de Lyon - 50-52 cours Charlemagne, 69002 Lyon.
 
 Dans son texte, Jean FOUCART nous fait remarquer à quel point le vocabulaire que nous employons influence nos représentations et nos comportements. Faut-il appeler nos anciens des personnes âgées, du troisième ou quatrième âge, des vieux, etc. ?
 
