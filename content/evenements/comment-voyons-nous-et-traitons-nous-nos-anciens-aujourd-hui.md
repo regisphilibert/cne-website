@@ -5,7 +5,6 @@ date_string: Lundi 17 juin 2019
 where: "Maison des Familles de Lyon, \n50-52 cours Charlemagne - 69002 Lyon."
 banner: ''
 types: []
-draft: true
 
 ---
 **COMMENT VOYONS-NOUS ET TRAITONS-NOUS NOS ANCIENS AUJOURD'HUI ?**
