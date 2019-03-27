@@ -5,7 +5,6 @@ date_string: Samedi 18 mai 2019 à 18h00
 where: "Compagnie BROZZONI, \n2 rue des Aravis - 74000 Annecy."
 banner: ''
 types: []
-draft: true
 
 ---
 **LA PSYCHOLOGIE POSITIVE PEUT-ELLE FAIRE NOTRE BONHEUR ?**
