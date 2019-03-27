@@ -10,9 +10,9 @@ types: []
 draft: true
 
 ---
-_Discussion-débat **autour d'un article** de Jean Foucart, Docteur en Sociologie et chargé de cours à la Haute Ecole Charleroi-Europe, "La vieillesse, une construction sociale", animée par Michel Bellaïche, Président de Comprendre notre époque._
+**Discussion-débat autour d'un article de Jean Foucart, Docteur en Sociologie et chargé de cours à la Haute Ecole Charleroi-Europe, "La vieillesse, une construction sociale", animée par Michel Bellaïche, Président de Comprendre notre époque.**
 
-_Date : 17 juin 2019 à 18h - Lieu : Maison des Familles de Lyon - 50-52 cours Charlemagne, 69002 Lyon_
+**Date : 17 juin 2019 à 18h** - Lieu : Maison des Familles de Lyon - 50-52 cours Charlemagne, 69002 Lyon
 
 **_Entrée Gratuite._**
 
