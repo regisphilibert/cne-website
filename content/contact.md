@@ -7,4 +7,4 @@ menu:
     weight: 6
 
 ---
-Utiliser le formulaire de contact ci-dessous ou écrivez nous un courriel [comprendre.notre.epoque@orange.fr](comprendre.notre.epoque@orange.fr)
+Utiliser le formulaire de contact ci-dessous ou écrivez nous un courriel [mailto:comprendre.notre.epoque@orange.fr](comprendre.notre.epoque@orange.fr)
