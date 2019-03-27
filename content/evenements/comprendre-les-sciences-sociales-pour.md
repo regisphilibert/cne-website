@@ -6,6 +6,7 @@ where: Compagnie BROZZONI,                                                      
   rue des Aravis - 74000 Annecy
 banner: ''
 types: []
+draft: true
 
 ---
 **Discussion-débat autour d'un livre, animée par Michel Bellaïche, Président de _Comprendre notre époque_, et Raphaël Villien, Professeur de philosophie**
