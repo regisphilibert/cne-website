@@ -7,7 +7,6 @@ where: |-
   50-52 cours Charlemagne, 69002 Lyon
 banner: ''
 types: []
-draft: true
 
 ---
 **Discussion-débat autour d'un article de Jean Foucart, Docteur en Sociologie et chargé de cours à la Haute Ecole Charleroi-Europe, "La vieillesse, une construction sociale", animée par Michel Bellaïche, Président de Comprendre notre époque.**
