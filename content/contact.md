@@ -7,4 +7,4 @@ menu:
     weight: 6
 
 ---
-Écrivez nous un courriel [mailto:comprendre.notre.epoque@orange.fr](comprendre.notre.epoque@orange.fr)
+Écrivez nous un courriel [comprendre.notre.epoque@orange.fr](mailto:comprendre.notre.epoque@orange.fr)
