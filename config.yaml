@@ -13,8 +13,8 @@ params:
   logo: img/logo_cne_text.png
   logo_small: img/logo_cne_text.png
   topbar:
-    enable: false
-    text: contact@comprendrenotreepoque.com
+    enable: true
+    text: comprendre.notre.epoque@orange.fr
   carousel:
     enable: false
   see_more:
