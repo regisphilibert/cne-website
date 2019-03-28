@@ -1,7 +1,7 @@
 ---
 title: Contact
 weight: 100
-# id: contact
+id: contact
 menu:
   main:
     weight: 6
