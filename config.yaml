@@ -14,7 +14,7 @@ params:
   logo_small: img/logo_cne_text.png
   topbar:
     enable: true
-    text: comprendre.notre.epoque@orange.fr
+    text: <a style='color:white;text-decoration:none;' href='mailto:comprendre.notre.epoque@orange.fr'>comprendre.notre.epoque@orange.fr</a>
   carousel:
     enable: false
   see_more:
