@@ -16,7 +16,7 @@ _Le montant de la cotisation est de 20 Euros par an._
 
 * Proposer des livres au comité de lecture pour validation, à placer sur le site Internet de l'association.
 * Proposer des vidéos au comité de visionnage pour validation, à placer sur le site Internet de l'association.
-* Recevoir la newsletter trimestrielle réservée aux adhérents.
+* Recevoir la newsletter réservée aux adhérents.
 * Assister aux assemblées générales de l'association.
 * Participer par vos votes à la marche de l'association.
 
