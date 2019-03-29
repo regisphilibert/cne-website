@@ -1,14 +1,12 @@
 ---
 title: LA PSYCHOLOGIE POSITIVE PEUT-ELLE FAIRE NOTRE BONHEUR ?
-date: 2019-05-18 18:00:00 +0200
+date: 2019-05-18 16:00:00 +0000
 date_string: Samedi 18 mai 2019 à 18h00
 where: "Compagnie BROZZONI, \n2 rue des Aravis - 74000 Annecy."
 banner: ''
 types: []
 
 ---
-**LA PSYCHOLOGIE POSITIVE PEUT-ELLE FAIRE NOTRE BONHEUR ?**
-
 **Discussion-débat autour d’un livre**, animée par Michel Bellaïche, Président de Comprendre notre époque, et Raphaël Villien, Professeur de philosophie.
 
 _Entrée gratuite_
