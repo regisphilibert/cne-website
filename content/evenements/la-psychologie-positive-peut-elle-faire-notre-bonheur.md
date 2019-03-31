@@ -7,6 +7,8 @@ banner: ''
 types: []
 
 ---
+Entrée libre dans la limite des places disponibles. Inscription obligatoire. Voir les modalités à la fin du texte.
+
 **Discussion-débat autour d’un livre**, animée par Michel Bellaïche, Président de Comprendre notre époque, et Raphaël Villien, Professeur de philosophie.
 
 _Entrée gratuite_
