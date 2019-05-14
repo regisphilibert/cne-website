@@ -3,7 +3,7 @@ title: 'PEUT-ON SOIGNER LA SOCIETE ? Regards croisés sur le malaise social :  d
   l’impossibilité ou le refus de l’action et développer le pouvoir d’agir'
 date: 2019-06-11T18:00:00+02:00
 date_string: Mardi 11 juin 2019 à 18h00
-where: Amphithéâtre de la MILC - 35 Rue Raulin 69007 Lyon
+where: Amphithéâtre de la MILC, 35 Rue Raulin - 69007 Lyon
 banner: ''
 types: []
 
