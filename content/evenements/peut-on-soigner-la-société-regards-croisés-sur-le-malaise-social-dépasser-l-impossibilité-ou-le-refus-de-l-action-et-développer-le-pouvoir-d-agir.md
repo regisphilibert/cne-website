@@ -32,3 +32,5 @@ Comment penser aujourd’hui libéralisme et humanisme ? Il est possible de déf
 Fondée sur une éthique relationnelle, l’approche des capacités est à même d’éclairer les choix sociaux et les finalités de l’action individuelle et collective, en fonction de leurs effets sur le développement humain.
 
 Quelques implications concrètes dans le monde de la santé, de l’éducation ou de l’entreprise en illustreront la possibilité.
+
+**Attention : places limitées - Inscription fortement conseillée - Remplir le formulaire de contact en indiquant que vous vous inscrivez à cet événement. Vous recevrez une confirmation dans la limite des places disponibles.**
