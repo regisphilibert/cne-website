@@ -8,7 +8,7 @@ banner: ''
 types: []
 
 ---
-**Entrée libre - Nombre de places limité - Inscription fortement conseillée sur le site _comprendrenotreepoque.org._** Voir les modalités à la fin du texte.
+**Entrée libre - Nombre de places limité - Inscription fortement conseillée_._** Voir les modalités à la fin du texte.
 
 **_Conférence-débat_** _organisée en partenariat avec la chaire Valeur(s) du soin de l’université Lyon 3 et l’association « Comprendre notre époque »._
 
