@@ -6,7 +6,6 @@ date_string: Mardi 11 juin 2019 à 18h00
 where: Amphithéâtre de la MILC, 35 Rue Raulin - 69007 Lyon
 banner: ''
 types: []
-draft: true
 
 ---
 **Entrée libre - Nombre de places limité - Inscription fortement conseillée sur le site _comprendrenotreepoque.org._** Voir les modalités à la fin du texte.
