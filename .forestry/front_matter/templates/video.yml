@@ -14,6 +14,7 @@ fields:
   name: extrait
   template: extrait
 pages:
+- content/videos/la-psychologie-positive-peut-elle-faire-notre-bonheur.md
 - content/videos/le-jeu-vidéo-vecteur-de-lien-social.md
 - content/videos/les-tiers-lieux-le-pari-de-la-sociabilité-michel-lussault-géographe.md
 - content/videos/la-transformation-des-liens-sociaux-à-l-ère-du-numérique.md
