@@ -3,7 +3,7 @@ title: Adhésion
 date: '2018-12-19T21:03:36.000+00:00'
 menu:
   main:
-    weight: 5
+    weight: 6
 
 ---
 **_Comprendre Notre Epoque_** est une association loi 1901 déclarée en préfecture de Haute-Savoie en janvier 2019.

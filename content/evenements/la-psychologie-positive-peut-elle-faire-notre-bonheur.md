@@ -8,7 +8,7 @@ types: []
 menu:
   main:
     name: Conférences filmées
-    weight: 7
+    weight: 1
 
 ---
 **Entrée libre dans la limite des places disponibles. Inscription obligatoire. Voir les modalités à la fin du texte.**
