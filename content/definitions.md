@@ -3,7 +3,7 @@ title: Présentation
 weight: 10
 menu:
   main:
-    weight: 1
+    weight: 2
 
 ---
 **Les objectifs de l'association**

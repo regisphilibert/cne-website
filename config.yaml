@@ -29,15 +29,17 @@ languages:
     languageName: Français
 menu:
   main:
+  - name: Videos des Événements
+    weight: 1
   - url: "/evenements/"
     name: Évènements
-    weight: 4
+    weight: 5
   - url: "/livres/"
     name: Livres
-    weight: 2
+    weight: 3
   - url: "/videos/"
     name: Vidéos
-    weight: 3
+    weight: 4
   topbar:
   - pre: "<i class='fa fa-2x fa-facebook'></i>"
     url: http://facebook.com
