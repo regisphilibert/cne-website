@@ -5,10 +5,6 @@ date_string: Samedi 18 mai 2019 à 18h00
 where: "Compagnie BROZZONI, \n2 rue des Aravis - 74000 Annecy."
 banner: ''
 types: []
-menu:
-  main:
-    name: Conférences filmées
-    weight: 1
 
 ---
 **Entrée libre dans la limite des places disponibles. Inscription obligatoire. Voir les modalités à la fin du texte.**

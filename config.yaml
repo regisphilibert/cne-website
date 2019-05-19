@@ -29,6 +29,9 @@ languages:
     languageName: Français
 menu:
   main:
+  - url: https://www.comprendrenotreepoque.org/videos/la-psychologie-positive-peut-elle-faire-notre-bonheur/
+    name: Conférences filmées
+    weight: 1
   - url: "/evenements/"
     name: Évènements
     weight: 5
