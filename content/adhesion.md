@@ -1,6 +1,6 @@
 ---
 title: Adhésion
-date: 2018-12-19 21:03:36 +0000
+date: '2018-12-19T21:03:36.000+00:00'
 menu:
   main:
     weight: 5
