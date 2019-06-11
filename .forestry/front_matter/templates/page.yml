@@ -5,5 +5,3 @@ fields:
 - type: text
   name: title
   label: Titre
-pages:
-- content/vidéos-des-évènements.md
