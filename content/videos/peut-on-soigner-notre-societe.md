@@ -8,6 +8,5 @@ text_summary: 'Conférence-débat organisée en partenariat avec la chaire Valeu
   juin 2019.
 
 '
-draft: true
 
 ---
