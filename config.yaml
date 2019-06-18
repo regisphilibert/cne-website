@@ -29,6 +29,9 @@ languages:
     languageName: Français
 menu:
   main:
+  - url: "/livres/"
+    name: Livres / Textes
+    weight: 3
   - url: https://www.comprendrenotreepoque.org/videos/la-psychologie-positive-peut-elle-faire-notre-bonheur/
     name: Événements Filmés
     weight: 1
@@ -38,9 +41,6 @@ menu:
   - url: "/videos/"
     name: Vidéos
     weight: 4
-  - url: "/livres/"
-    name: Livres
-    weight: 3
   topbar:
   - pre: "<i class='fa fa-2x fa-facebook'></i>"
     url: http://facebook.com
