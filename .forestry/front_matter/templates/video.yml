@@ -9,6 +9,15 @@ fields:
   name: video_id
   label: Identifiant de la Vidéo
   description: 'Le code de la vidéo YouTube. Ex: KihEYwWvxuQ'
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: false
+    date_format: DD/MM/YYYY
+    time_format: h:mm
+    display_utc: false
 - type: include
   label: Extrait
   name: extrait
