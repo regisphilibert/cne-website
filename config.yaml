@@ -40,7 +40,7 @@ menu:
     weight: 3
   topbar:
   - pre: "<i class='fa fa-2x fa-facebook'></i>"
-    url: http://facebook.com
+    url: https://www.facebook.com/COMPRENDRENOTREEPOQUE/
     name: Facebook
     weight: 1
   - pre: "<i class='fa fa-2x fa-youtube'></i>"
