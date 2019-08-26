@@ -22,7 +22,7 @@ Pour **Cynthia FLEURY**, notre époque est marquée par le manque de courage ind
 
 Chaque fois que nous manquons de courage face à une situation injuste ou qui va contre nos valeurs profondes, chaque fois que nous laissons à d’autres le soin de dire ou d’intervenir, nous nous isolons, nous nous désolidarisons, nous nous replions sur nous-mêmes et nous perdons un peu de vitalité et de la force de vivre ensemble.
 
-Pour Cynthia FLEURY, il faut intervenir séance tenante par le parler-vrai (la «parresia»), même dans les situations apparemment les plus bénignes (Exemples illustratifs ne se trouvant pas dans le livre : un collègue qui est traité injustement, une personne qui téléphone fort dans le train, un usager qui est incorrect avec un fonctionnaire, un parent qui montre des signes de violence vis-à-vis d’un enfant, etc.).
+Pour Cynthia FLEURY, il faut intervenir séance tenante par le parler-vrai (la «parresia»), même dans les situations apparemment les plus bénignes (exemples illustratifs ne se trouvant pas dans le livre : un collègue qui est traité injustement, une personne qui téléphone fort dans le train, un usager qui est incorrect avec un fonctionnaire, un parent qui montre des signes de violence vis-à-vis d’un enfant, etc.).
 
 Si les relations entre les personnes s’organisent autour d’un «dire vrai», ne confondant pas la règle et ce qui est juste, le lien social pourra se reconstituer.
 
