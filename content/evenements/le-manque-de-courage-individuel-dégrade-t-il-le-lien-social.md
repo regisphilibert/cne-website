@@ -10,7 +10,7 @@ draft: true
 ---
 **LE MANQUE DE COURAGE INDIVIDUEL DÉGRADE-T-IL LE LIEN SOCIAL ?**
 
-Discussion-débat autour du **livre de Cynthia FLEURY**, Philosophe et psychanalyse : La Fin du courage – Editions Fayard.
+Discussion-débat autour du **livre de Cynthia FLEURY**, Philosophe et psychanalyse : **La Fin du courage** – Editions Fayard.
 
 _Entrée libre - Attention : Places limitées - Inscription fortement conseillée par mail. Remplir le formulaire de contact du site Internet en indiquant que vous vous inscrivez à cet événement. Vous recevrez une confirmation dans la limite des places disponibles._
 
