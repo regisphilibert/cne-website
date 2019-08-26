@@ -9,6 +9,8 @@ types: []
 ---
 **SE CULTIVER OU CONSOMMER DES PRODUITS CULTURELS AUJOURD'HUI ?**
 
+_Entrée libre - Attention : places limitées. Inscription fortement conseillée par mail. Remplir le formulaire de contact sur le site Internet(comprendrenotreepoque.org) en indiquant que vous vous inscrivez à cet événement. Vous recevrez une confirmation dans la limite des places disponibles._
+
 Discussion-débat en présence de **Claude BROZZONI** – Metteur en scène.
 
 **Mardi 15 octobre 2019 de 19 à 21h.**
@@ -16,8 +18,6 @@ Discussion-débat en présence de **Claude BROZZONI** – Metteur en scène.
 Lieu : Les Carrés - 43 avenue des Carrés - Annecy-le-Vieux.
 
 Evènement organisé en partenariat avec l’association socioculturelle et de loisirs Les Carrés    [http://lescarres-asso.com/](http://lescarres-asso.com/ "http://lescarres-asso.com/")
-
-_Entrée libre - Attention : places limitées. Inscription fortement conseillée par mail. Remplir le formulaire de contact sur le site Internet(comprendrenotreepoque.org) en indiquant que vous vous inscrivez à cet événement. Vous recevrez une confirmation dans la limite des places disponibles._
 
 Le grand mouvement de l'éducation populaire porté notamment par les MJC (Maisons des jeunes et de la culture) avait pour buts de mettre à la portée de tous une culture qui permettrait de s'ouvrir au monde et aux autres.
 
