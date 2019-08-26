@@ -17,15 +17,15 @@ _Entrée libre – Nombre de places limité - Inscription fortement conseillée 
 
 **Le 16 octobre 2019 à 18h30.**
 
-Lieu: Auditorium de SPHERIA VIE, 23 boulevard Jean Jaurès - 45000 ORLÉANS.
+Lieu : Auditorium de SPHERIA VIE, 23 boulevard Jean Jaurès - 45000 ORLÉANS.
 
-**Conférence organisée par l’association «Comprendre notre époque».**
+**Conférence organisée par l’association « Comprendre notre époque ».**
 
-Éric Bertrand est Maître de conférences en sciences de l’éducation et de la formation. Université Rennes 2. Membre du laboratoire CREAD (Centre de Recherche sur l’Enseignement, l’Activité et la Didactique). Il enseigne l’histoire de la formation des adultes en France, les sciences et techniques de la formation (ingénieries de formation et ingénierie pédagogique, les théories de l’apprentissage et du développement psychologique des adultes (andragogie). Ses travaux de recherche portent sur la formation expérientielle des adultes en contexte de travail et la recherche.
+Éric Bertrand est Maître de conférences en sciences de l’éducation et de la formation, Université Rennes 2. Membre du laboratoire CREAD (Centre de Recherche sur l’Enseignement, l’Activité et la Didactique), il enseigne l’histoire de la formation des adultes en France, les sciences et techniques de la formation (ingénierie de formation et ingénierie pédagogique), les théories de l’apprentissage et du développement psychologique des adultes (andragogie). Ses travaux de recherche portent sur la formation expérientielle des adultes en contexte de travail et la recherche.
 
-L’éducation est, d’un point de vue anthropologique, le processus permanent par lequel le sujet expérimente le monde, l’intègre en lui, se transforme  et le transforme en retour pour le rendre plus habitable.
+L’éducation est, d’un point de vue anthropologique, le processus permanent par lequel le sujet expérimente le monde, l’intègre en lui, se transforme et le transforme en retour pour le rendre plus habitable.
 
-Les Lumières  voyaient déjà dans l’éducation pour tous et tout au long de la vie un précieux levier d’émancipation des peuples.
+Les Lumières voyaient déjà dans l’éducation pour tous et tout au long de la vie un précieux levier d’émancipation des peuples.
 
 Les dernières réformes sur la formation (notamment celle de 2018), définissent un droit d’accès pour toutes et tous à la formation, mais soulignent en même temps la nécessité  pour chacun de prendre en main sa destinée professionnelle.
 
