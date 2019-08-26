@@ -5,7 +5,6 @@ date_string: Mercredi 16 octobre 2019, à 18h30.
 where: Auditorium de Spheria Vie - 23 Boulevard Jean Jaures - 45000 Orléans.
 banner: ''
 types: []
-draft: true
 
 ---
 **LA FORMATION TOUT AU LONG DE LA VIE, LEVIER DE CHANGEMENT SOCIÉTAL ?**
