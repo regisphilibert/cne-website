@@ -5,7 +5,6 @@ date_string: Mardi 16 décembre 2019, à 18h00.
 where: Maison des Familles de Lyon - 50/52 Cours Charlemagne 69002 Lyon.
 banner: ''
 types: []
-draft: true
 
 ---
 **LE MANQUE DE COURAGE INDIVIDUEL DÉGRADE-T-IL LE LIEN SOCIAL ?**
