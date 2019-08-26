@@ -18,7 +18,7 @@ _Entrée libre - Attention : Places limitées - Inscription fortement conseillé
 
 Lieu : FormaSup ARL – Premier étage – 66, cours avenue Jean Mermoz, 69008 Lyon
 
-Métro Jean Mermoz – Bus ligne C15 – C22 – Arrêt Mermoz Californie
+Métro Jean Mermoz - Bus ligne C15 ou C22 , arrêt Mermoz Californie.
 
 Sur la base d’une enquête menée auprès de personnes vivant ou ayant vécu la solitude imposée ou par choix, Marie-Chantal DOUCET en arrive aux constats suivants :
 
