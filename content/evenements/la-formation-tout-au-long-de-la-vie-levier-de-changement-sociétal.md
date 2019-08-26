@@ -20,7 +20,7 @@ _Entrée libre – Nombre de places limité - Inscription fortement conseillée 
 
 Lieu: Auditorium de SPHERIA VIE, 23 boulevard Jean Jaurès - 45000 ORLÉANS.
 
-Conférence organisée par l’association «Comprendre notre époque».
+**Conférence organisée par l’association «Comprendre notre époque».**
 
 Éric Bertrand est Maître de conférences en sciences de l’éducation et de la formation. Université Rennes 2. Membre du laboratoire CREAD (Centre de Recherche sur l’Enseignement, l’Activité et la Didactique). Il enseigne l’histoire de la formation des adultes en France, les sciences et techniques de la formation (ingénieries de formation et ingénierie pédagogique, les théories de l’apprentissage et du développement psychologique des adultes (andragogie). Ses travaux de recherche portent sur la formation expérientielle des adultes en contexte de travail et la recherche.
 
@@ -38,4 +38,4 @@ Il présentera enfin le développement d’une pratique actuelle : la réflexivi
 
 La deuxième partie sera consacrée aux partages d’expériences.
 
-Abonnez-vous à notre page Facebook [https://www.facebook.com/COMPRENDRENOTREEPOQUE/](https://www.facebook.com/COMPRENDRENOTREEPOQUE/ "https://www.facebook.com/COMPRENDRENOTREEPOQUE/") pour être informé de l’actualité de l’association.
+**Abonnez-vous à notre page Facebook** [**https://www.facebook.com/COMPRENDRENOTREEPOQUE/**](https://www.facebook.com/COMPRENDRENOTREEPOQUE/ "https://www.facebook.com/COMPRENDRENOTREEPOQUE/") **pour être informé de l’actualité de l’association.**
