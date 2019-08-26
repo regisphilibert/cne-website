@@ -5,7 +5,6 @@ date_string: Lundi 18 novembre 2019 à 18h00.
 where: FormaSup ARL - 1er étage - 66 cours Jean Mermoz - 69008 Lyon.
 banner: ''
 types: []
-draft: true
 
 ---
 **SOLITUDE CHOISIE OU SOLITUDE SUBIE ? UNE EXPÉRIENCE CONTEMPORAINE.**
