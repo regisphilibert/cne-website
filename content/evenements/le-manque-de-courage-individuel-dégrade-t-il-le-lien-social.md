@@ -1,7 +1,7 @@
 ---
 title: LE MANQUE DE COURAGE INDIVIDUEL DÉGRADE-T-IL LE LIEN SOCIAL ?
 date: 2019-12-16T18:00:00+01:00
-date_string: Mardi 16 décembre 2019, à 18h00.
+date_string: Lundi 16 décembre 2019, à 18h00.
 where: Maison des Familles de Lyon - 50/52 Cours Charlemagne 69002 Lyon.
 banner: ''
 types: []
@@ -9,7 +9,7 @@ types: []
 ---
 **LE MANQUE DE COURAGE INDIVIDUEL DÉGRADE-T-IL LE LIEN SOCIAL ?**
 
-Discussion-débat autour du **livre de Cynthia FLEURY**, Philosophe et psychanalyse : **La Fin du courage** – Editions Fayard.
+Discussion-débat autour du **livre de Cynthia FLEURY**, philosophe et psychanalyste : **La Fin du courage** – Editions Fayard.
 
 _Entrée libre - Attention : Places limitées - Inscription fortement conseillée par mail. Remplir le formulaire de contact du site Internet en indiquant que vous vous inscrivez à cet événement. Vous recevrez une confirmation dans la limite des places disponibles._
 
