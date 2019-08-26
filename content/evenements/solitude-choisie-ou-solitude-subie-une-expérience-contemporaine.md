@@ -9,9 +9,9 @@ types: []
 ---
 **SOLITUDE CHOISIE OU SOLITUDE SUBIE ? UNE EXPÉRIENCE CONTEMPORAINE.**
 
-Discussion-débat autour du **livre de Marie-Chantal DOUCET**, Sociologue, travailleuse sociale et Professeure à l’université d’Ottawa : Solitudes et sociétés contemporaines – Editions Presses de l’Université du Québec.
+Discussion-débat autour du **livre de Marie-Chantal DOUCET**, sociologue, travailleuse sociale et professeure à l’université d’Ottawa : Solitudes et sociétés contemporaines – Editions Presses de l’Université du Québec.
 
-_Entrée libre - Attention : Places limitées - Inscription fortement conseillée par mail - Remplir le formulaire de contact du site Internet en indiquant que vous vous inscrivez à cet événement. Vous recevrez une confirmation dans la limite des places disponibles._
+_Entrée libre - Attention : Places limitées - Inscription fortement conseillée par mail. Remplir le formulaire de contact du site Internet en indiquant que vous vous inscrivez à cet événement. Vous recevrez une confirmation dans la limite des places disponibles._
 
 **Date : 18 novembre 2019 à 18h.**
 
@@ -29,8 +29,8 @@ Ce passage requiert un apprentissage car l’individu doit désormais «apprivoi
 
 C’est le prix à payer pour la connaissance de soi tant désirée.
 
-De ces expériences de solitude émergent de nouvelles formes de socialités, la préoccupation principale de l’individu contemporain étant de trouver l’équilibre entre soi et autrui, entre la présence et l’absence des autres.
+De ces expériences de solitude émergent de nouvelles formes de socialité, la préoccupation principale de l’individu contemporain étant de trouver l’équilibre entre soi et autrui, entre la présence et l’absence des autres.
 
-Quels vécus avons-nous de la solitude ? Arrivons-nous aujourd’hui à profiter des bienfaits de la solitude tout en restant en lien avec les autres ? Quelles pratiques avons-nous développé ?
+Quels vécus avons-nous de la solitude ? Arrivons-nous aujourd’hui à profiter des bienfaits de la solitude tout en restant en lien avec les autres ? Quelles pratiques avons-nous développées ?
 
 **Abonnez-vous à notre page Facebook** [**https://www.facebook.com/COMPRENDRENOTREEPOQUE/**](https://www.facebook.com/COMPRENDRENOTREEPOQUE/ "https://www.facebook.com/COMPRENDRENOTREEPOQUE/") **pour être informé de l’actualité de l’association.**
