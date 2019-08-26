@@ -10,11 +10,11 @@ draft: true
 ---
 **SOLITUDE CHOISIE OU SOLITUDE SUBIE ? UNE EXPÉRIENCE CONTEMPORAINE.**
 
-Discussion-débat autour du livre de Marie-Chantal DOUCET, Sociologue, travailleuse sociale et Professeure à l’université d’Ottawa : Solitudes et sociétés contemporaines – Editions Presses de l’Université du Québec.
+Discussion-débat autour du **livre de Marie-Chantal DOUCET**, Sociologue, travailleuse sociale et Professeure à l’université d’Ottawa : Solitudes et sociétés contemporaines – Editions Presses de l’Université du Québec.
 
-Entrée libre - Attention : Places limitées - Inscription fortement conseillée par mail - Remplir le formulaire de contact du site Internet en indiquant que vous vous inscrivez à cet évènement. Vous recevrez une confirmation dans la limite des places disponibles.
+_Entrée libre - Attention : Places limitées - Inscription fortement conseillée par mail - Remplir le formulaire de contact du site Internet en indiquant que vous vous inscrivez à cet événement. Vous recevrez une confirmation dans la limite des places disponibles._
 
-Date : 18 novembre 2019 à 18h.
+**Date : 18 novembre 2019 à 18h.**
 
 Lieu : FormaSup ARL – Premier étage – 66, cours avenue Jean Mermoz, 69008 Lyon
 
@@ -34,4 +34,4 @@ De ces expériences de solitude émergent de nouvelles formes de socialités, la
 
 Quels vécus avons-nous de la solitude ? Arrivons-nous aujourd’hui à profiter des bienfaits de la solitude tout en restant en lien avec les autres ? Quelles pratiques avons-nous développé ?
 
-Abonnez-vous à notre page Facebook [https://www.facebook.com/COMPRENDRENOTREEPOQUE/](https://www.facebook.com/COMPRENDRENOTREEPOQUE/ "https://www.facebook.com/COMPRENDRENOTREEPOQUE/") pour être informé de l’actualité de l’association.
+**Abonnez-vous à notre page Facebook** [**https://www.facebook.com/COMPRENDRENOTREEPOQUE/**](https://www.facebook.com/COMPRENDRENOTREEPOQUE/ "https://www.facebook.com/COMPRENDRENOTREEPOQUE/") **pour être informé de l’actualité de l’association.**
