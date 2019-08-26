@@ -27,4 +27,4 @@ André Malraux, un des premiers ministres de la culture de la Vè république di
 
 Qu'en reste-t-il aujourd'hui ? Avons-nous acquis l'autonomie pour nous cultiver, nous transformer, opérer des réalisations collectives et émancipatrices ? Ou bien consommons-nous simplement des produits culturels qui ne changent rien et nous font juste plaisir sur le moment ?
 
-**_Abonnez-vous à notre page Facebook_** [**_https://www.facebook.com/COMPRENDRENOTREEPOQUE/,_**](https://www.facebook.com/COMPRENDRENOTREEPOQUE/, "https://www.facebook.com/COMPRENDRENOTREEPOQUE/,") **_pour être informé de l’actualité de l’association._**
+**_Abonnez-vous à notre page Facebook_** [**_https://www.facebook.com/COMPRENDRENOTREEPOQUE/_**](https://www.facebook.com/COMPRENDRENOTREEPOQUE/, "https://www.facebook.com/COMPRENDRENOTREEPOQUE/,") **_pour être informé de l’actualité de l’association._**
