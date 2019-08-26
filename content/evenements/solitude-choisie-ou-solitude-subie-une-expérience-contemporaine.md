@@ -19,7 +19,7 @@ Lieu : FormaSup ARL – Premier étage – 66, cours avenue Jean Mermoz, 69008 L
 
 Métro Jean Mermoz - Bus ligne C15 ou C22 , arrêt Mermoz Californie.
 
-Sur la base d’une enquête menée auprès de personnes vivant ou ayant vécu la solitude imposée ou par choix, Marie-Chantal DOUCET en arrive aux constats suivants :
+Sur la base d’une enquête menée auprès de personnes vivant ou ayant vécu la solitude imposée ou par choix, **Marie-Chantal DOUCET** en arrive aux constats suivants :
 
 La solitude n’est pas forcément synonyme de souffrance et de manque, elle peut permettre de mieux se connaître, de travailler sur soi et de faire émerger un «quant-à-soi» (quant-à-soi : part de soi qui est en rupture avec la société), ce qui ouvre à la créativité et aux possibilités de changement sociétal.
 
