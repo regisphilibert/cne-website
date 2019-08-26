@@ -8,17 +8,17 @@ types: []
 draft: true
 
 ---
-LA FORMATION TOUT AU LONG DE LA VIE, LEVIER DE CHANGEMENT SOCIÉTAL ?
+**LA FORMATION TOUT AU LONG DE LA VIE, LEVIER DE CHANGEMENT SOCIÉTAL ?**
 
 La formation tout au long de la vie peut-elle accroître notre pouvoir d’agir ? Sur notre vie et sur la vie en société ?
 
-Par Éric Bertrand, Maître de conférences en sciences de l’éducation et de la formation.
+**Par Éric Bertrand**, Maître de conférences en sciences de l’éducation et de la formation.
 
-Entrée libre – Nombre de places limité - Inscription fortement conseillée sur le site comprendrenotreepoque.org. Remplir le formulaire de contact en indiquant que vous vous inscrivez à cet évènement. Vous recevrez une confirmation par mail de votre inscription.
+_Entrée libre – Nombre de places limité - Inscription fortement conseillée sur le site comprendrenotreepoque.org. Remplir le formulaire de contact en indiquant que vous vous inscrivez à cet événement. Vous recevrez une confirmation par mail de votre inscription._
 
-Le 16 octobre 2019 à 18h30 - Auditorium de SPHERIA VIE
+**Le 16 octobre 2019 à 18h30.**
 
-23 boulevard Jean Jaurès - 45000 ORLEANS.
+Lieu: Auditorium de SPHERIA VIE, 23 boulevard Jean Jaurès - 45000 ORLÉANS.
 
 Conférence organisée par l’association «Comprendre notre époque».
 
@@ -28,15 +28,13 @@ L’éducation est, d’un point de vue anthropologique, le processus permanent 
 
 Les Lumières  voyaient déjà dans l’éducation pour tous et tout au long de la vie un précieux levier d’émancipation des peuples.
 
-Les dernières réformes sur la formation (notamment celle de 2018), définissent un droit d’accès pour toutes et tous à la formation, mais soulignent en même temps la nécessité  pour chacun de prendre en main sa destinée professionnelle. 
+Les dernières réformes sur la formation (notamment celle de 2018), définissent un droit d’accès pour toutes et tous à la formation, mais soulignent en même temps la nécessité  pour chacun de prendre en main sa destinée professionnelle.
 
 Selon quelles conditions la formation tout au long de la vie permet-elle aux personnes et aux groupes sociaux de devenir « auteur(s) » de leur propre vie, de développer un pouvoir d’agir  sans céder au processus « d’individualisation » des rapports sociaux qui minent les sociétés contemporaines dites « développées » ?
 
- 
-
 Eric BERTRAND mettra en perspective l’histoire de la formation des adultes, son actualité et ses enjeux contemporains, et les résultats de différentes recherches menées depuis deux décennies dans le champ de l’insertion et de la formation.
 
-Il présentera enfin le développement d’une pratique actuelle : la réflexivité critique, au cœur de toutes transformations politiques, sociales et éducatives. 
+Il présentera enfin le développement d’une pratique actuelle : la réflexivité critique, au cœur de toutes transformations politiques, sociales et éducatives.
 
 La deuxième partie sera consacrée aux partages d’expériences.
 
