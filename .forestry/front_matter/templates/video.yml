@@ -23,6 +23,7 @@ fields:
   name: extrait
   template: extrait
 pages:
+- content/videos/comment-voyons-nous-nos-anciens.md
 - content/videos/peut-on-soigner-notre-societe.md
 - content/videos/la-psychologie-positive-peut-elle-faire-notre-bonheur.md
 - content/videos/la-transformation-des-liens-sociaux-à-l-ère-du-numérique.md
