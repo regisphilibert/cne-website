@@ -39,11 +39,11 @@ menu:
     name: Vidéos
     weight: 3
   topbar:
+  - pre: "<i class='fa fa-2x fa-youtube'></i>"
+    url: https://www.youtube.com/channel/UC8IbYJEZKPY3TpCsY6unE2w?view_as=subscriber
+    name: Youtube
+    weight: 2
   - pre: "<i class='fa fa-2x fa-facebook'></i>"
     url: https://www.facebook.com/COMPRENDRENOTREEPOQUE/
     name: Facebook
     weight: 1
-  - pre: "<i class='fa fa-2x fa-youtube'></i>"
-    url: https://www.youtube.com/channel/UC8IbYJEZKPY3TpCsY6unE2w
-    name: Youtube
-    weight: 2
