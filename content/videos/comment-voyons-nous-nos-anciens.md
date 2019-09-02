@@ -6,7 +6,6 @@ text_summary: Introduction à la discussion-débat autour d'un article de Jean F
   Docteur en Sociologie et chargé de cours à la Haute Ecole Charleroi-Europe, "La
   vieillesse, une construction sociale". Organisé le 17 juin 2019 par l'association
   "Comprendre notre époque"
-draft: true
 
 ---
 Introduction à la discussion-débat autour d'un article de Jean Foucart, Docteur en Sociologie et chargé de cours à la Haute Ecole Charleroi-Europe, "La vieillesse, une construction sociale". Organisé le 17 juin 2019 par l'association "Comprendre notre époque"
