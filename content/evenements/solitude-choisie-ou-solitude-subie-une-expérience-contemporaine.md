@@ -1,7 +1,7 @@
 ---
 title: SOLITUDE CHOISIE OU SOLITUDE SUBIE ? UNE EXPÉRIENCE CONTEMPORAINE.
 date: 2019-11-18T18:00:00+01:00
-date_string: Lundi 18 novembre 2019 à 18h00.
+date_string: Lundi 18 novembre 2019 à 17H30.
 where: FormaSup ARL - 1er étage - 66 cours Jean Mermoz - 69008 Lyon.
 banner: ''
 types: []
@@ -13,7 +13,9 @@ Discussion-débat autour du **livre de Marie-Chantal DOUCET**, sociologue, trava
 
 _Entrée libre - Attention : Places limitées - Inscription fortement conseillée par mail. Remplir le formulaire de contact du site Internet en indiquant que vous vous inscrivez à cet événement. Vous recevrez une confirmation dans la limite des places disponibles._
 
-**Date : 18 novembre 2019 à 18h.**
+**Date : 18 novembre 2019 à 17h30**
+
+#### **Attention : fermeture des portes pour raisons de sécurité à 18h. Après 18h, aucune entrée ne sera possible.**
 
 Lieu : FormaSup ARL – Premier étage – 66, cours avenue Jean Mermoz, 69008 Lyon
 
