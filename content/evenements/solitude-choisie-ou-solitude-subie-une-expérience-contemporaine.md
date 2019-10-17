@@ -5,7 +5,6 @@ date_string: Lundi 16 décembre 2019 à 19h00.
 where: Maison des Familles de Lyon - 50-52 cours Charlemagne, 69002 Lyon.
 banner: ''
 types: []
-draft: true
 
 ---
 **SOLITUDE CHOISIE OU SOLITUDE SUBIE ? UNE EXPÉRIENCE CONTEMPORAINE.**
