@@ -12,13 +12,11 @@ draft: true
 
 Discussion-débat autour du **livre de Marie-Chantal DOUCET**, sociologue, travailleuse sociale et professeure à l’université d’Ottawa : Solitudes et sociétés contemporaines – Editions Presses de l’Université du Québec.
 
-_Entrée libre - Attention : Places limitées - Inscription fortement conseillée par mail. Remplir le formulaire de contact du site Internet en indiquant que vous vous inscrivez à cet événement. Vous recevrez une confirmation dans la limite des places disponibles._
-
 **Date : 16 décembre 2019 à 19h00**
 
 Lieu: Maison des Familles de Lyon - 50-52 cours Charlemagne, 69002 Lyon.
 
-Métro Jean Mermoz - Bus ligne C15 ou C22 , arrêt Mermoz Californie.
+_Entrée libre - Attention : Places limitées - Inscription fortement conseillée par mail. Remplir le formulaire de contact du site Internet en indiquant que vous vous inscrivez à cet événement. Vous recevrez une confirmation dans la limite des places disponibles._
 
 Sur la base d’une enquête menée auprès de personnes vivant ou ayant vécu la solitude imposée ou par choix, **Marie-Chantal DOUCET** en arrive aux constats suivants :
 
