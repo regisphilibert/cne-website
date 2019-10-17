@@ -16,9 +16,7 @@ _Entrée libre - Attention : Places limitées - Inscription fortement conseillé
 
 **Date : 16 décembre 2019 à 19h00**
 
-#### **Attention : fermeture des portes pour raisons de sécurité à 18h. Après 18h, aucune entrée ne sera possible.**
-
-Lieu : FormaSup ARL – Premier étage – 66, cours avenue Jean Mermoz, 69008 Lyon
+Lieu: Maison des Familles de Lyon - 50-52 cours Charlemagne, 69002 Lyon.
 
 Métro Jean Mermoz - Bus ligne C15 ou C22 , arrêt Mermoz Californie.
 
