@@ -23,6 +23,7 @@ fields:
   name: extrait
   template: extrait
 pages:
+- content/videos/se-cultiver-ou-consommer-des-produits-culturels.md
 - content/videos/comment-voyons-nous-nos-anciens.md
 - content/videos/peut-on-soigner-notre-societe.md
 - content/videos/la-psychologie-positive-peut-elle-faire-notre-bonheur.md
