@@ -2,7 +2,7 @@
 title: SOLITUDE CHOISIE OU SOLITUDE SUBIE ? UNE EXPÉRIENCE CONTEMPORAINE.
 date: 2019-12-16T19:00:00+01:00
 date_string: Lundi 18 décembre 2019 à 19h00.
-where: FormaSup ARL - 1er étage - 66 cours Jean Mermoz - 69008 Lyon.
+where: Maison des Familles de Lyon - 50-52 cours Charlemagne, 69002 Lyon.
 banner: ''
 types: []
 draft: true
