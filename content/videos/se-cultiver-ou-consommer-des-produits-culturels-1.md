@@ -4,7 +4,6 @@ video_id: pxYzK-diVjM
 date: 2019-10-15T19:00:00+02:00
 text_summary: Discussion-débat du 15 octobre 2019 organisée par l'association Comprendre
   notre époque, en partenariat avec l'association socio-culturelle des Carrés à Annecy.
-draft: true
 
 ---
 Discussion-débat du 15 octobre 2019 organisée par l'association Comprendre notre époque, en partenariat avec l'association socio-culturelle des Carrés à Annecy. 
