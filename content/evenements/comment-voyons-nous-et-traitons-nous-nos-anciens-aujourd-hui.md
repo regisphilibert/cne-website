@@ -1,6 +1,6 @@
 ---
 title: COMMENT VOYONS-NOUS ET TRAITONS-NOUS NOS ANCIENS AUJOURD'HUI ?
-date: 2019-06-17 16:00:00 +0000
+date: 2019-06-17T16:00:00.000+00:00
 date_string: Lundi 17 juin 2019 à 18h00
 where: "Maison des Familles de Lyon, \n50-52 cours Charlemagne - 69002 Lyon."
 banner: ''
@@ -13,7 +13,7 @@ types: []
 
 **Date : Lundi 17 juin 2019 à 18h** - Lieu : Maison des Familles de Lyon - 50-52 cours Charlemagne, 69002 Lyon.
 
-_Entrée gratuite_
+_Entrée gratuite._
 
 Dans son texte, Jean FOUCART nous fait remarquer à quel point le vocabulaire que nous employons influence nos représentations et nos comportements. Faut-il appeler nos anciens des personnes âgées, du troisième ou quatrième âge, des vieux, etc. ?
 
