@@ -1,5 +1,5 @@
 ---
-title: Solitude choisie, solitude consentie ?UNE EXPERIENCE CONTEMPORAINE.
+title: Solitude choisie, solitude consentie ? Une expérience contemporaine.
 video_id: h6k5CCnHXEA
 date: 2019-12-16T00:00:00+01:00
 text_summary: |-
