@@ -29,8 +29,6 @@ La biodiversité est-elle préservée ? Ramasser les déchets ou faire attention
 
 Comment concilier au XXIe siècle les loisirs de montagne et l'environnement ?
 
-     
+Une illustration de cette tension sera exposée et discutée au travers de l’exemple de la Marche ultra-légère (MUL) qui, tout en fréquentant et donc consommant des espaces naturels, des biens et des ressources, se caractérise de manière nuancée par une volonté de limiter son impact (sensibilité éco-responsable, minimalisme, parfois _Leave No Trace_...).
 
-    Une illustration de cette tension sera exposée et discutée au travers de l’exemple de la Marche Ultra-Légère (MUL) qui, tout en fréquentant et donc consommant des espaces naturels, des biens et des ressources, se caractérise de manière nuancée par une volonté de limiter son impact (sensibilité éco-responsable, minimalisme, parfois Leave No Trace...).
-
-Abonnez-vous à notre page Facebook [https://www.facebook.com/COMPRENDRENOTREEPOQUE/,](https://www.facebook.com/COMPRENDRENOTREEPOQUE/, "https://www.facebook.com/COMPRENDRENOTREEPOQUE/,") pour être informé de l’actualité de l’association.
+**Abonnez-vous à notre page Facebook** [**https://www.facebook.com/COMPRENDRENOTREEPOQUE/**](https://www.facebook.com/COMPRENDRENOTREEPOQUE/ "https://www.facebook.com/COMPRENDRENOTREEPOQUE/,")**pour être informé de l’actualité de l’association.**
