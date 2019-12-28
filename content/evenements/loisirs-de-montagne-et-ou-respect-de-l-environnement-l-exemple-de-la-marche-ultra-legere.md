@@ -2,7 +2,7 @@
 title: LOISIRS DE MONTAGNE ET/OU RESPECT DE L'ENVIRONNEMENT ? L’EXEMPLE DE LA MARCHE
   ULTRA-LEGERE.
 date: 2020-01-21T19:00:00+01:00
-date_string: Le mardi 21 janvier 2020, de 19H à 21H.
+date_string: Mardi 21 janvier 2020, de 19H à 21H.
 where: Les Carrés - 43 avenue des Carrés - Annecy-le-vieux
 banner: ''
 types: []
