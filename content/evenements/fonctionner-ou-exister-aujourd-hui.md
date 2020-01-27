@@ -1,7 +1,7 @@
 ---
 title: FONCTIONNER OU EXISTER AUJOURD'HUI ?
 date: 2020-02-20T19:00:00+01:00
-date_string: Jeudi 20 février à 19h00
+date_string: Jeudi 20 février de 19h00 à 20h30.
 where: MJC de Villeurbanne - 46 Cours Jean Damidot, 69100 Villeurbanne
 banner: ''
 types: []
