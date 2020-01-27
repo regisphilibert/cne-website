@@ -5,7 +5,6 @@ date_string: Jeudi 20 février 2020 de 19h00 à 20h30.
 where: MJC de Villeurbanne - 46 Cours Jean Damidot, 69100 Villeurbanne
 banner: ''
 types: []
-draft: true
 
 ---
 **FONCTIONNER OU EXISTER AUJOURD’HUI ?**
