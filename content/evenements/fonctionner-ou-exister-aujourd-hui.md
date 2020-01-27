@@ -9,7 +9,7 @@ types: []
 ---
 **FONCTIONNER OU EXISTER AUJOURD’HUI ?**
 
-Discussion-débat **autour du livre de Miguel BENASAYAG**, Philosophe, psychanalyste, chercheur en épistémologie : Fonctionner où Exister ?  
+Discussion-débat **autour du livre de Miguel BENASAYAG**, Philosophe, psychanalyste, chercheur en épistémologie : Fonctionner où exister ?  
 Editions Le Pommier.
 
 **Date : 20 février 2020 de 19h00 à 20h30.**
