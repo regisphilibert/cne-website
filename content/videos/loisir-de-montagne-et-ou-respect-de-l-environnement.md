@@ -10,7 +10,6 @@ text_summary: "Nos pratiques actuelles de loisirs en montagne sont-elles respect
   et donc consommant des espaces naturels, des biens et des ressources, se caractérise
   de manière nuancée par une volonté de limiter son impact (sensibilité éco-responsable,
   minimalisme, parfois Leave No Trace...).\n"
-draft: true
 
 ---
 **LOISIRS DE MONTAGNE ET/OU RESPECT DE L'ENVIRONNEMENT ?** 
