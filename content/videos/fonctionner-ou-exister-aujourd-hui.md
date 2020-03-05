@@ -14,7 +14,6 @@ text_summary: "Discussion-débat par l'association Comprendre Notre Époque auto
   organismes vivants, etc.\nMiguel BENASASAG nous interpelle : somme-nous prêts à
   assumer d'exister, avec notre part d'humain, de fragilité, de désir de culture,
   d'amour, etc. ?"
-draft: true
 
 ---
 Discussion-débat par l'association Comprendre Notre Époque autour du livre de Miguel BENASAYAG, Philosophe, psychanalyste, chercheur en épistémologie : Fonctionner ou exister ? – Editions Le Pommier. 
