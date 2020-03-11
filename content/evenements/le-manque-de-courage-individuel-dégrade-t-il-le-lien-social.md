@@ -1,7 +1,7 @@
 ---
 title: LE MANQUE DE COURAGE INDIVIDUEL DÉGRADE-T-IL LE LIEN SOCIAL ?
 date: 2020-06-04T19:00:00+02:00
-date_string: Jeudi 4 juin 2020 à 19H00
+date_string: Jeudi 4 juin 2020 de 19H00 à 20H30
 where: MJC de Villeurbanne 46 Cours Jean DAMIDOT - 69100 Villeurbanne
 banner: ''
 types: []
@@ -33,4 +33,4 @@ Pour l’auteure, faire preuve de courage par le «dire vrai» libère, ouvre de
 
 En même temps que de nous montrer les voies de notre équilibre psychique, qui tient beaucoup au respect de nos propres valeurs dans nos actes concrets, elle pointe notre responsabilité individuelle dans la construction du lien social et fonde une nouvelle morale du courage.
 
-Abonnez-vous à notre page Facebook [https://www.facebook.com/COMPRENDRENOTREEPOQUE](https://www.facebook.com/COMPRENDRENOTREEPOQUE/, "https://www.facebook.com/COMPRENDRENOTREEPOQUE/,")/, pour être informé de l’actualité de l’association.
+Abonnez-vous à notre page Facebook [**https://www.facebook.com/COMPRENDRENOTREEPOQUE/**](https://www.facebook.com/COMPRENDRENOTREEPOQUE/ "https://www.facebook.com/COMPRENDRENOTREEPOQUE/") , pour être informé de l’actualité de l’association.
