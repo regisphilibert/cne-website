@@ -8,17 +8,17 @@ types: []
 draft: true
 
 ---
-**LE MANQUE DE COURAGE INDIVIDUEL DEGRADE-T-IL LE LIEN SOCIAL ?**
+LE MANQUE DE COURAGE INDIVIDUEL DEGRADE-T-IL LE LIEN SOCIAL ?
 
-_Discussion-débat autour du livre de Cynthia FLEURY, Philosophe et psychanalyse : La Fin du courage – Editions Fayard._
+**_Discussion-débat autour du livre de Cynthia FLEURY_**_, Philosophe et psychanalyse : **La Fin du courage** – Editions Fayard._
 
 **Date : 4 juin 2020 de 19h00 à 20h30**
 
-**Lieu : MJC de Villeurbanne 46 Cours Jean DAMIDOT - 69100 Villeurbanne**
+Lieu : MJC de Villeurbanne 46 Cours Jean DAMIDOT - 69100 Villeurbanne
 
-**_Entrée libre - Attention : Places limitées - Inscription fortement conseillée par mail - Remplir le formulaire de contact du site Internet en indiquant que vous vous inscrivez à cet événement._** 
+**_Entrée libre - Attention : Places limitées_** _- Inscription fortement conseillée par mail - Remplir le formulaire de contact du site Internet en indiquant que vous vous inscrivez à cet événement._
 
-**_Vous recevrez une confirmation dans la limite des places disponibles._**
+Vous recevrez une confirmation dans la limite des places disponibles.
 
 Pour Cynthia FLEURY, notre époque est marquée par le manque de courage individuel et c’est ce qui détruit le lien social, le «vivre ensemble».
 
