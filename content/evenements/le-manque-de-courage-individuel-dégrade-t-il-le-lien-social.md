@@ -5,6 +5,7 @@ date_string: Jeudi 4 juin 2020 de 19H00 à 20H30
 where: MJC de Villeurbanne 46 Cours Jean DAMIDOT - 69100 Villeurbanne
 banner: ''
 types: []
+draft: true
 
 ---
 LE MANQUE DE COURAGE INDIVIDUEL DEGRADE-T-IL LE LIEN SOCIAL ?
