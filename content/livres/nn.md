@@ -1,7 +1,9 @@
 ---
-title: ''
-banner: ''
-author: ''
+title: POUR PENSER LE DEVENIR DES RELATIONS SOCIALES ET DU « VIVRE ENSEMBLE » A L’ERE
+  DU COVID 19, NOUS AVONS SELECTIONNE DES TEXTES DE PHILOSOPHES, SOCIOLOGUES, ANTHROPOLOGUES,
+  ECRITS PENDANT LE CONFINEMENT.
+banner: "/uploads/confinement-750x372.jpg"
+author: Divers articles.
 publisher: ''
 ref_url: ''
 text_summary: ''
