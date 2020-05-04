@@ -147,7 +147,7 @@ Pire encore, nous n’osons pas serrer la main ni embrasser ceux que nous aimons
 
 **Extraits**
 
-**Ne pas confonde Distanciation sociale et distance physique !**
+Ne pas confonde Distanciation sociale et distance physique !
 
 Nous invitons tout le monde – responsables politiques, journalistes ou citoyen·ne·s – à prendre leurs distances avec cette appellation inappropriée, la « distanciation sociale ».
 
@@ -157,7 +157,7 @@ C’est en consolidant le lien social, en cultivant les élans de solidarité, e
 
 Le besoin de se connecter aux autres, en particulier pour comparer son vécu et pouvoir en prendre ainsi la mesure réelle, est ce qui nous mobilise en tant qu’êtres humains. Dans l’adversité, c’est bien la proximité sociale qui s’avère cruciale.
 
-**Le lien social affecte massivement la santé physique et mentale**
+Le lien social affecte massivement la santé physique et mentale
 
 Les conséquences de la proximité sociale ne se limitent pas à la gestion de l’anxiété. Le lien social affecte massivement la santé physique et mentale.
 
@@ -169,7 +169,7 @@ Bref, les Beatles ne croyaient pas si bien dire lorsqu’ils chantaient que les 
 
 Avoir des liens nombreux et des identités multiples à mobiliser en cas de coup dur peut donc littéralement vous sauver la vie. Et pour paraphraser notre collègue John Cacioppo, la solitude tue aussi sûrement que le coronavirus.
 
-**Le lien social n’exige pas la présence physique des autres**
+Le lien social n’exige pas la présence physique des autres
 
 Comme la plupart des adolescents vissés sur leur smartphone vous le diront, ce bénéfice du lien social n’exige pas la présence physique des autres membres du groupe !
 
@@ -177,13 +177,13 @@ Une étude a par exemple montré que le partage sur Twitter des émotions à pro
 
 La coordination de l’action est un autre bénéfice indéniable du lien social. Sans une bonne organisation ou une planification adéquate, il est vain de nourrir de grandes ambitions.
 
-**Cultiver les émotions sociales**
+Cultiver les émotions sociales
 
 La cohésion d’un groupe a été étudiée sous des angles divers. Une façon de l’aborder concerne la manière dont les membres d’un groupe se définissent par rapport aux événements. Les femmes et les hommes politiques qui ont marqué l’histoire autant que les dirigeant·e·s d’entreprise charismatiques savent combien il importe de favoriser une lecture groupale de la situation.
 
 Les images et les discours sur l’épidémie de coronavirus que l’on rencontre dans les médias et sur les réseaux sociaux, sans doute parce c’est plus facile et plus vendeur auprès du grand public, présentent souvent des oppositions entre individus (se battant par exemple pour le dernier rouleau de papier hygiénique) ou entre des catégories sociales : les « jeunes » (insouciants) contre les « vieux » (à risque), etc.
 
-**Les animaux sociaux que nous sommes ne peuvent imaginer une seconde être privés de relations sociales**
+Les animaux sociaux que nous sommes ne peuvent imaginer une seconde être privés de relations sociales
 
 Pour inspirer, proposer et coordonner, les personnes qui mènent ce combat (dans les hôpitaux, les maisons de repos, les entreprises mais aussi les cabinets ministériels) auront besoin non pas de distance mais de proximité sociale.
 
@@ -195,7 +195,7 @@ On le voit, si le bien-fondé des mesures préventives prises par les autorités
 
 C’est précisément lorsque la distance physique s’impose comme ultime recours qu’il y a lieu de maximiser le lien social.
 
-**Les réseaux sociaux et les médias, renforcement du lien social**
+Les réseaux sociaux et les médias, renforcement du lien social
 
 Fort heureusement, nous vivons une époque bénie à cet égard. Les médias sont partout, les réseaux sociaux nous offrent un florilège de moyens pour entre en contact avec les membres de notre famille, nos amis, nos proches et nos collègues.
 
