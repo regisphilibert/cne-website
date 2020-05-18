@@ -5,6 +5,15 @@ fields:
 - type: text
   name: title
   label: Titre
+- name: date
+  type: datetime
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  label: Date
 - type: file
   name: banner
   label: Image
