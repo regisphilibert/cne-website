@@ -6,7 +6,6 @@ date_string: Mardi 6 octobre 2020 à 19h00
 where: Les Carrés - 43 avenue des Carrés - Annecy-le-vieux
 banner: ''
 types: []
-draft: true
 
 ---
 **L’EVEIL CULTUREL ET ARTISTIQUE DES TOUT-PETITS EST-IL EN DANGER AUJOURD’HUI ?**
