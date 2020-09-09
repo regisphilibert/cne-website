@@ -28,6 +28,8 @@ fields:
   label: Types
   description: Séminaire, Conférence etc...
 pages:
+- content/evenements/L’EVEIL CULTUREL ET ARTISTIQUE DES TOUT-PETITS EST-IL EN DANGER
+  AUJOURD’HUI ?.md
 - content/evenements/comment-voyons-nous-et-traitons-nous-nos-anciens-aujourd-hui.md
 - content/evenements/fonctionner-ou-exister-aujourd-hui.md
 - content/evenements/la-psychologie-positive-peut-elle-faire-notre-bonheur.md
