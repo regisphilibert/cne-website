@@ -16,7 +16,7 @@ _«Une straTégie nationale pour la Santé Culturelle : Promouvoir et pérennise
 
 **Date : 6 octobre 2020 de 19 à 21h**
 
-**Lieu : Les CaRrés - 43 avenue des Carrés - Annecy-le-vieux**
+**Lieu : Les Carrés - 43 avenue des Carrés - Annecy-le-vieux**
 
 _Evènement organisé en partenariat avec l’association socioculturelle et de loisirs Les Carrés_ [_http://lescarres-asso.com/_](http://lescarres-asso.com/ "http://lescarres-asso.com/") _et avec la participation de Bérangère MARX – Psychanalyste._
 
