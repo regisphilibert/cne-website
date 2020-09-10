@@ -32,4 +32,4 @@ Selon elle, nos enfants présentent des signes de malnutrition culturelle : appa
 
 Pour Sophie MARINOPOULOS, il y a urgence à re-nourrir substantiellement nos tout-petits. Comme les enfants de l’après-guerre ont été nourris de lait, les bébés de la société hypermoderne doivent l’être de ce lait symbolique qu’est le lien humain. Ce n’est pas avec des objets que le bébé veut communiquer, mais avec d’autres sujets, lesquels doivent lui proposer une véritable nourriture culturelle.
 
-Quelles situations visons-nous aujourd’hui ? Quelles pratiques développons-nous ? Quelles difficultés rencontrons-nous ?
+Quelles situations vivons-nous aujourd’hui ? Quelles pratiques développons-nous ? Quelles difficultés rencontrons-nous ?
