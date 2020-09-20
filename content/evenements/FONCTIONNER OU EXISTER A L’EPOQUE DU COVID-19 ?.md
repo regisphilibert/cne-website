@@ -1,8 +1,8 @@
 ---
-title: ''
-date: 
-date_string: ''
-where: ''
+title: FONCTIONNER OU EXISTER A L’EPOQUE DU COVID-19 ?
+date: 2020-09-29T19:00:00+02:00
+date_string: Le mardi 29 septembre 2020 de 19H00 à 20H30
+where: Visio conférence – Lien internet fourni à l'inscription
 banner: ''
 types: []
 draft: true
