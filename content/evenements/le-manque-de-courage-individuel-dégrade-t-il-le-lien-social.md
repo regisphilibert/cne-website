@@ -5,7 +5,6 @@ date_string: Samedi 28 novembre de 17h à 18H30
 where: Visio rencontre
 banner: ''
 types: []
-draft: true
 
 ---
 **LE MANQUE DE COURAGE INDIVIDUEL DEGRADE-T-IL LE LIEN SOCIAL ?**
