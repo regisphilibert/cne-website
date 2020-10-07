@@ -2,7 +2,7 @@
 title: LE MANQUE DE COURAGE INDIVIDUEL DÉGRADE-T-IL LE LIEN SOCIAL ?
 date: 2020-11-28T17:00:00+01:00
 date_string: Samedi 28 novembre de 17h à 18H30
-where: Visio rencontre
+where: Visio rencontre - Lien internet fourni à l'inscription
 banner: ''
 types: []
 
