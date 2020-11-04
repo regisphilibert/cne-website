@@ -1,7 +1,7 @@
 ---
 title: SE RECONFINER, QUELLES CONSEQUENCES PSYCHOLOGIQUES ?
 date: 2020-11-11T17:00:00+01:00
-date_string: Mercredi 11 novembre 2020
+date_string: Mercredi 11 novembre 2020 de 17h00 à 18h00
 where: Visio Rencontre
 banner: ''
 types: []
