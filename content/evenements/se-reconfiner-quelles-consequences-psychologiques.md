@@ -16,7 +16,7 @@ Rencontre-discussion autour d’articles récents sur les conséquences psycholo
 
 Lieu : **Visio rencontre**
 
-Entrée libre - Attention : Places limitées - Inscription obligatoire par mail
+_Entrée libre - Attention : **Places limitées** - Inscription obligatoire par mail_
 
 _Remplir le formulaire de contact du site Internet (comprendrenotreepoque.org) en indiquant que vous vous inscrivez à cet évènement._
 
