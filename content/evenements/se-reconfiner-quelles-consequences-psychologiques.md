@@ -5,7 +5,6 @@ date_string: Mercredi 11 novembre 2020
 where: Visio Rencontre
 banner: ''
 types: []
-draft: true
 
 ---
 **SE RECONFINER, QUELLES CONSEQUENCES PSYCHOLOGIQUES ?**
