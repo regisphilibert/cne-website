@@ -1,7 +1,7 @@
 ---
 title: LE MANQUE DE COURAGE INDIVIDUEL DÉGRADE-T-IL LE LIEN SOCIAL ?
-date: 2020-11-28T17:00:00+01:00
-date_string: Samedi 28 novembre de 17h à 18H30
+date: 2021-01-22T19:00:00+01:00
+date_string: Vendredi 22 janvier 2021 de 19H à 20h30
 where: Visio rencontre - Lien internet fourni à l'inscription
 banner: ''
 types: []
@@ -11,7 +11,7 @@ types: []
 
 Rencontre-discussion autour du livre de **Cynthia FLEURY**, Philosophe et psychanalyse : La Fin du courage – Editions Fayard.
 
-**Date : Samedi 28 novembre 2020 de 17h00 à 18H30**
+**Date : Vendredi 22 janvier 2021 de 19H à 20h30**
 
 **Lieu : Visio rencontre**
 
