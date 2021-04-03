@@ -21,3 +21,14 @@ text_summary: 'Voici le livre de référence sur l''Éducation populaire, l''une
 draft: true
 
 ---
+**Comité de lecture de Comprendre notre époque**
+
+Cet ouvrage retrace la grande aventure du mouvement d’éducation populaire, initié à la révolution française par la déclaration de Condorcet sur l’importance de l’instruction pour l'​égalité du citoyen, mais véritablement commencé avec la ligue de l’enseignement de Jean Macé en 1866 qui a inauguré le​s​bibliothèques et les comités scolaires.
+
+L’histoire riche et tumultueuse de l’éducation populaire continuée avec le front populaire et l’action de Léo Lagrange, le conseil national de la résistance, le mouvement du scoutisme, les maisons de jeunes et de la​ ​culture, etc.
+
+En donnant la parole à des acteurs actuels de l’éducation populaire et en s’appuyant sur des propos d’acteurs passés, cet ouvrage fait comprendre l’essence du projet de l’éducation populaire, ses piliers que sont l’émancipation, la conscientisation, le développement du pouvoir d’agir et la transformation sociale.
+
+En faisant le point de ce qu’est devenu ce mouvement aujourd’hui, l’ouvrage aborde les réussites, mais également les impasses et les questionnements des acteurs actuels.
+
+Ce mouvement à la visée émancipatoire nous a paru important à découvrir ou redécouvrir pour se demander si l’esprit qui l’habite peut nous aider à mieux comprendre et vivre ensemble notre époque.
