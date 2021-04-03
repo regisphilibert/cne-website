@@ -18,7 +18,6 @@ text_summary: 'Voici le livre de référence sur l''Éducation populaire, l''une
   culturelles et artistiques soient réduites à la production d''objets marchands ou
   de signes de distinction pour une élite.Autrement dit, à tous ceux qui veulent,
   comme l''écrit Roland Gori, "réaffirmer l''humanité dans l''homme".'
-draft: true
 
 ---
 **Comité de lecture de Comprendre notre époque**
