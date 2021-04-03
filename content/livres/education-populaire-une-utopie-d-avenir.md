@@ -20,7 +20,7 @@ text_summary: 'Voici le livre de référence sur l''Éducation populaire, l''une
   comme l''écrit Roland Gori, "réaffirmer l''humanité dans l''homme".'
 
 ---
-**Comité de lecture de Comprendre notre époque**
+**Comité de lecture de Comprendre notre époque:**
 
 Cet ouvrage retrace la grande aventure du mouvement d’éducation populaire, initié à la révolution française par la déclaration de Condorcet sur l’importance de l’instruction pour l'​égalité du citoyen, mais véritablement commencé avec la ligue de l’enseignement de Jean Macé en 1866 qui a inauguré le​s​bibliothèques et les comités scolaires.
 
@@ -32,7 +32,7 @@ En faisant le point de ce qu’est devenu ce mouvement aujourd’hui, l’ouvrag
 
 Ce mouvement à la visée émancipatoire nous a paru important à découvrir ou redécouvrir pour se demander si l’esprit qui l’habite peut nous aider à mieux comprendre et vivre ensemble notre époque.
 
-**Résumé**
+**Résumé:**
 
 Voici le livre de référence sur l'Éducation populaire, l'une des utopies parmi les plus exaltantes issue des Lumières et notamment de Condorcet, renforcée par le mouvement ouvrier et le Front populaire et adoubée à la Libération. L'histoire d'un rêve devenu réalité : donner, par des pratiques culturelles au sens large - expressions orales, arts, théâtre, danse... -, aux individus, quelles que soient leur classe et leur éducation, les moyens de se réaliser ensemble et de s'initier à la vie.
 
