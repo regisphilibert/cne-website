@@ -1,7 +1,7 @@
 ---
 title: Education populaire, une utopie d'avenir
 date: 2021-04-03T00:00:00+02:00
-banner: ''
+banner: "/uploads/9791020903822-475x500-1.webp"
 author: "  Franck Lepage , Nicolas Roméas (Préfacier), Collectif"
 publisher: Editions Cassandre/Horschamp
 ref_url: https://www.decitre.fr/livres/education-populaire-une-utopie-d-avenir-9791020903822.html
