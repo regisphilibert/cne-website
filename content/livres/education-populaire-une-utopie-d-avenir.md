@@ -22,7 +22,7 @@ text_summary: 'Voici le livre de référence sur l''Éducation populaire, l''une
 ---
 **Comité de lecture de Comprendre notre époque:**
 
-Cet ouvrage retrace la grande aventure du mouvement d’éducation populaire, initié à la révolution française par la déclaration de Condorcet sur l’importance de l’instruction pour l'​égalité du citoyen, mais véritablement commencé avec la ligue de l’enseignement de Jean Macé en 1866 qui a inauguré le​s​bibliothèques et les comités scolaires.
+Cet ouvrage retrace la grande aventure du mouvement d’éducation populaire, initié à la révolution française par la déclaration de Condorcet sur l’importance de l’instruction pour l'​égalité du citoyen, mais véritablement commencé avec la ligue de l’enseignement de Jean Macé en 1866 qui a inauguré le​s​ bibliothèques et les comités scolaires.
 
 L’histoire riche et tumultueuse de l’éducation populaire continuée avec le front populaire et l’action de Léo Lagrange, le conseil national de la résistance, le mouvement du scoutisme, les maisons de jeunes et de la​ ​culture, etc.
 
