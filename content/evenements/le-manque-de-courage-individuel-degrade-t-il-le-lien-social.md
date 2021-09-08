@@ -5,7 +5,6 @@ date_string: Lundi 22 novembre 2021 à 19H00
 where: Maison des Familles de Lyon - 50-52 cours Charlemagne, 69002 Lyon
 banner: ''
 types: []
-draft: true
 
 ---
 **LE MANQUE DE COURAGE INDIVIDUEL DÉGRADE-T-IL LE LIEN SOCIAL ?**
