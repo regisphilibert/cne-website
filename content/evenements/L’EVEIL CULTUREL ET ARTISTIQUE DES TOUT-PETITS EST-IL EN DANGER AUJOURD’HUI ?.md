@@ -13,7 +13,7 @@ draft: true
 
 **Rencontre-débat autour du rapport de janvier 2019 au Ministère de la Culture de Sophie MARINOPOULOS, psychologue et psychanalyste :**
 
-_«Une straTégie nationale pour la Santé Culturelle : Promouvoir et pérenniser l’éveil culturel et artistique de l’enfant de la naissance à 3 ans dans le lien à son parent»_
+_«Une stratégie nationale pour la Santé Culturelle : Promouvoir et pérenniser l’éveil culturel et artistique de l’enfant de la naissance à 3 ans dans le lien à son parent»_
 
 **Date : 6 octobre 2020 de 19 à 21h**
 
