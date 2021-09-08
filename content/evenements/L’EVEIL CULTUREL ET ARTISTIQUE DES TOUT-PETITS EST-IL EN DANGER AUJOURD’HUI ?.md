@@ -1,8 +1,8 @@
 ---
 title: L’EVEIL CULTUREL ET ARTISTIQUE DES TOUT-PETITS EST-IL EN DANGER AUJOURD’HUI
   ?
-date: 2020-10-06T19:00:00+02:00
-date_string: Mardi 6 octobre 2020 à 19h00
+date: 2021-10-19T19:00:00+02:00
+date_string: Mardi 19 octobre 2021 à 19h00
 where: Les Carrés - 43 avenue des Carrés - Annecy-le-vieux
 banner: ''
 types: []
@@ -15,7 +15,7 @@ draft: true
 
 _«Une stratégie nationale pour la Santé Culturelle : Promouvoir et pérenniser l’éveil culturel et artistique de l’enfant de la naissance à 3 ans dans le lien à son parent»_
 
-**Date : 6 octobre 2020 de 19 à 21h**
+**Date : 19 octobre 2021 de 19 à 21h**
 
 **Lieu : Les Carrés - 43 avenue des Carrés - Annecy-le-vieux**
 
