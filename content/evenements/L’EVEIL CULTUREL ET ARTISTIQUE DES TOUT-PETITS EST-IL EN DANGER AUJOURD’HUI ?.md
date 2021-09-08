@@ -5,7 +5,8 @@ date: 2021-10-19T19:00:00+02:00
 date_string: Mardi 19 octobre 2021 à 19h00
 where: Les Carrés - 43 avenue des Carrés - Annecy-le-vieux
 banner: ''
-types: []
+types:
+- Conférence-débat
 draft: true
 
 ---
