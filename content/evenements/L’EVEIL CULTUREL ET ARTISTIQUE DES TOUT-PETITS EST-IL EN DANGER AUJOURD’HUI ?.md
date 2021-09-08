@@ -7,7 +7,6 @@ where: Les Carrés - 43 avenue des Carrés - Annecy-le-vieux
 banner: ''
 types:
 - Conférence-débat
-draft: true
 
 ---
 **L’EVEIL CULTUREL ET ARTISTIQUE DES TOUT-PETITS EST-IL EN DANGER AUJOURD’HUI ?**
