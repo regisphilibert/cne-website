@@ -15,9 +15,9 @@ Discussion-débat autour du livre de Cynthia FLEURY, Philosophe et psychanalyste
 
 Lieu : Maison des Familles de Lyon - 50-52 cours Charlemagne, 69002 Lyon
 
-**_Entrée libre - Attention : Places limitées - Inscription fortement conseillée par mail - Remplir le formulaire de contact du site Internet (comprendrenotreepoque.org) en indiquant que vous vous inscrivez à cet événement. Vous recevrez une confirmation dans la limite des places disponibles_**
+**_Entrée libre - Attention : Places limitées - Inscription fortement conseillée par mail - Remplir le formulaire de contact du site Internet (comprendrenotreepoque.org) en indiquant que vous vous inscrivez à cet événement. Vous recevrez une confirmation dans la limite des places disponibles._**
 
-###### **La Maison des Familles est un Etablissement Recevant du Public et, à ce titre, est contraint aux normes sanitaires en vigueur. Ainsi, le pass sanitaire sera contrôlé à l’entrée, pour les personnes de plus de 18 ans.**
+La Maison des Familles est un Etablissement Recevant du Public et, à ce titre, est contraint aux normes sanitaires en vigueur. Ainsi, le pass sanitaire sera contrôlé à l’entrée, pour les personnes de plus de 18 ans.
 
 Pour Cynthia FLEURY, notre époque est marquée par le manque de courage individuel et c’est ce qui détruit le lien social, le «vivre ensemble».
 
