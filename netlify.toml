@@ -4,4 +4,4 @@
 
 [context.production.environment]
     HUGO_VERSION = "0.54.0"
-    RUBY_VERSION = "2.7.2"
+    RUBY_VERSION = "2.3.6"
