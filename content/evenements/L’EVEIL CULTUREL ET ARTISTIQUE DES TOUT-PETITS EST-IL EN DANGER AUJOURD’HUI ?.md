@@ -1,12 +1,13 @@
 ---
 title: L’EVEIL CULTUREL ET ARTISTIQUE DES TOUT-PETITS EST-IL EN DANGER AUJOURD’HUI
   ?
-date: 2021-10-19T19:00:00+02:00
+date: 2021-10-19T19:00:00.000+02:00
 date_string: Mardi 19 octobre 2021 à 19h00
 where: Les Carrés - 43 avenue des Carrés - Annecy-le-vieux
 banner: ''
 types:
 - Conférence-débat
+draft: true
 
 ---
 **L’EVEIL CULTUREL ET ARTISTIQUE DES TOUT-PETITS EST-IL EN DANGER AUJOURD’HUI ?**
