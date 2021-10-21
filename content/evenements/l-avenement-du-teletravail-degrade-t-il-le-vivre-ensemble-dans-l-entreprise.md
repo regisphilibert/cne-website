@@ -6,7 +6,6 @@ date_string: Mercredi 24 novembre 2021
 where: Théâtre la Flèche – 77, rue Charonne Paris 11è – Métro Charonne
 banner: ''
 types: []
-draft: true
 
 ---
 **L’AVÈNEMENT DU TÉLÉTRAVAIL DÉGRADE-T-IL LE VIVRE ENSEMBLE DANS L’ENTREPRISE ?**
