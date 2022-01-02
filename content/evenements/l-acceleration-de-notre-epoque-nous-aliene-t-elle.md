@@ -5,7 +5,6 @@ date_string: Lundi 31 janvier 2022 à 19h00
 where: MJC de Villeurbanne, 46 Cours Jean DAMIDOT 69100 Villeurbanne
 banner: ''
 types: []
-draft: true
 
 ---
 **L'ACCÉLÉRATION DE NOTRE ÉPOQUE NOUS ALIÈNE-T-ELLE ?**
