@@ -23,6 +23,7 @@ fields:
   name: extrait
   template: extrait
 pages:
+- content/videos/acceleration-et-alienation.md
 - content/videos/changer-le-regard-sur-le-vieillissement.md
 - content/videos/comment-voyons-nous-nos-anciens.md
 - content/videos/fonctionner-ou-exister-aujourd-hui.md
