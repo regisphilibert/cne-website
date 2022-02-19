@@ -5,7 +5,6 @@ date_string: Mardi 15 mars 2022
 where: 9, Place Marcel Paul - 75014 Paris
 banner: ''
 types: []
-draft: true
 
 ---
 **LA PSYCHOLOGIE POSITIVE PEUT-ELLE FAIRE NOTRE BONHEUR ?**
