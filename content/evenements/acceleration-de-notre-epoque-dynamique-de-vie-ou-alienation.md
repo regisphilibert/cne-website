@@ -1,5 +1,5 @@
 ---
-title: "’ACCÉLÉRATION DE NOTRE ÉPOQUE : DYNAMIQUE DE VIE OU ALIÉNATION ?"
+title: 'L’ACCÉLÉRATION DE NOTRE ÉPOQUE : DYNAMIQUE DE VIE OU ALIÉNATION ?'
 date: 2022-05-19T19:00:00+02:00
 date_string: Jeudi 19 mai 2022 à 19H00
 where: Les Carrés - 43 avenue des Carrés - Annecy-le-vieux
