@@ -5,7 +5,6 @@ date_string: Jeudi 9 juin 2022 à 19H00
 where: Maison des solidarités locales et internationales - 215 rue Vendôme, Lyon 69003
 banner: ''
 types: []
-draft: true
 
 ---
 **LA PSYCHOLOGIE POSITIVE PEUT-ELLE FAIRE NOTRE BONHEUR ?**
