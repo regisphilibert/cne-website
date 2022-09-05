@@ -9,8 +9,6 @@ banner: ''
 types: []
 
 ---
-**Cultures en miroir, ou comment la rencontre d’une autre culture nous fait mieux comprendre la nôtre :**
-
 Date : Mardi 27 septembre 2022 à 19h00 - Entrée libre
 
 **Lieu : Maison des solidarités locales et internationales - 215 rue Vendôme, Lyon 69003**
