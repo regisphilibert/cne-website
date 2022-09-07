@@ -1,8 +1,8 @@
 ---
-title: Cultures en miroir, ou comment la rencontre d’une autre culture nous fait mieux
-  comprendre la nôtre
+title: CULTURES EN MIROIR, OU COMMENT LA RENCONTRE D’UNE AUTRE CULTURE NOUS FAIT MIEUX
+  COMPRENDRE LA NOTRE
 date: 2022-09-27T19:00:00+02:00
-date_string: Mardi 27 septembre 2022
+date_string: Mardi 27 septembre 2022 à 19h00
 where: "Maison des solidarités locales et internationales  - 215 rue Vendôme, Lyon
   69003\n      "
 banner: ''
