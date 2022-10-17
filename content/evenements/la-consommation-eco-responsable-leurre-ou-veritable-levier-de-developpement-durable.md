@@ -8,8 +8,6 @@ banner: ''
 types: []
 
 ---
-**La consommation éco-responsable, leurre ou véritable levier de développement durable ?**
-
 **Discussion-débat** autour du livre« Les enfants gâtés – Anthropologie du mythe du capitalisme responsable» de Fanny PARISE – Anthropologue
 
 **Date : Mardi 8 novembre 2022 à 19h00 - Entrée libre**
