@@ -6,7 +6,6 @@ date_string: Mardi 08 Novembre 2022 à 19h00
 where: 'Café associatif : Le Moulin à Café - 8 rue Sainte-Léonie, 75014 '
 banner: ''
 types: []
-draft: true
 
 ---
 **La consommation éco-responsable, leurre ou véritable levier de développement durable ?**
