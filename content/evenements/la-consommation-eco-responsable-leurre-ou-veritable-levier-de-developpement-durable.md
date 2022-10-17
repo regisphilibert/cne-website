@@ -1,6 +1,6 @@
 ---
-title: La consommation éco-responsable, leurre ou véritable levier de développement
-  durable ?
+title: LA CONSOMMATION ECO-RESPONSABLE, LEURRE OU VERITABLE LEVIER DE DEVELOPPEMENT
+  DURABLE ?
 date: 2022-11-08T19:00:00+01:00
 date_string: Mardi 08 Novembre 2022 à 19h00
 where: 'Café associatif : Le Moulin à Café - 8 rue Sainte-Léonie, 75014 '
