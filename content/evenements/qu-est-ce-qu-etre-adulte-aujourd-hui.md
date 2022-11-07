@@ -6,7 +6,6 @@ where: 'Compagnie BROZZONI  - 2 rue des Aravis - 74000 Annecy '
 banner: ''
 types:
 - Discussion-débat
-draft: true
 
 ---
 **Discussion-débat autour du livre «**[**Grandir. Eloge de l'âge adulte à une époque qui nous infantilise**](https://www.decitre.fr/livres/grandir-9782850610578.html)**» de Susan Neiman – Editions Premier Parallèle**
