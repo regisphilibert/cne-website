@@ -1,5 +1,5 @@
 ---
-title: Lien social et solidarités aujourd'hui ?
+title: LIEN SOCIAL ET SOLIDARITES AUJOURD’HUI ?
 date: 2022-11-28T19:00:00+01:00
 date_string: Lundi 28 novembre 2022 à 19h00
 where: Maison des Solidarités locales et Internationales - 215 Rue Vendôme, 69003
@@ -8,11 +8,9 @@ banner: ''
 types: []
 
 ---
-**LIEN SOCIAL ET SOLIDARITES AUJOURD’HUI ?**
-
 **Discussion-débat** autour d’un article de **Serge PAUGAM** – Sociologue :
 
- «**Le lien social»** (publié sur le site du SES-ENS-Lyon).
+«**Le lien social»** (publié sur le site du SES-ENS-Lyon).
 
 Date : **Lundi 28 novembre 2022 à 19h00** - Entrée libre
 
