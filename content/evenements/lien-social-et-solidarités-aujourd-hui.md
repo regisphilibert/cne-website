@@ -7,6 +7,7 @@ where: Maison des Solidarités locales et Internationales - 215 Rue Vendôme, 69
 banner: ''
 types:
 - Discussion-débat
+draft: true
 
 ---
 **Discussion-débat** autour d’un article de **Serge PAUGAM** – Sociologue :
