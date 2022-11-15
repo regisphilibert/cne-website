@@ -5,7 +5,8 @@ date_string: Lundi 28 novembre 2022 à 19h00
 where: Maison des Solidarités locales et Internationales - 215 Rue Vendôme, 69003
   Lyon (accès public par la rue Chaponnay).
 banner: ''
-types: []
+types:
+- Discussion-débat
 
 ---
 **Discussion-débat** autour d’un article de **Serge PAUGAM** – Sociologue :
