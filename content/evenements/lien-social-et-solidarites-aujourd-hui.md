@@ -6,7 +6,6 @@ where: Maison des Solidarités locales et Internationales - 215 Rue Vendôme, 69
   Lyon (accès public par la rue Chaponnay).
 banner: ''
 types: []
-draft: true
 
 ---
 **LIEN SOCIAL ET SOLIDARITES AUJOURD’HUI ?**
