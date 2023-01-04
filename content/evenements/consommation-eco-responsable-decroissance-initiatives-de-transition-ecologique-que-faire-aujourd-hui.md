@@ -17,9 +17,9 @@ Texte : Transition et décroissance : analogies et divergences - Simon De MUYNCK
 
 Pour point de départ de la discussion, nous ferons une présentation des idées et des points de vue des deux auteurs. Il n’est pas nécessaire d’avoir lu ces écrits pour participer à la rencontre.
 
-Date : Jeudi 19 janvier 2022 à 19h00 - Entrée libre
+**Date : Jeudi 19 janvier 2022 à 19h00** - Entrée libre
 
-Lieu : Maison des solidarités locales et internationales - 215 rue Vendôme, Lyon 69003
+**Lieu : Maison des solidarités locales et internationales - 215 rue Vendôme, Lyon 69003**
 
 Accès public : par la rue Chaponnay
 
