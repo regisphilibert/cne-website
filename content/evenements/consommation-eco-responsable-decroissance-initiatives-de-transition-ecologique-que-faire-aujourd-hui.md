@@ -9,11 +9,11 @@ types: []
 draft: true
 
 ---
-Discussion-échange autour de deux textes
+**Discussion-échange autour de deux textes**
 
-Livre : Les enfants gâtés – Anthropologie du mythe du capitalisme responsable - Fanny PARISE – Anthropologue.
+**Livre : Les enfants gâtés – Anthropologie du mythe du capitalisme responsable - Fanny PARISE – Anthropologue.**
 
-Texte : Transition et décroissance : analogies et divergences - Simon De MUYNCK - Maître en sciences et gestion de l’Environnement - Université Libre de Bruxelles.
+**Texte : Transition et décroissance : analogies et divergences - Simon De MUYNCK - Maître en sciences et gestion de l’Environnement - Université Libre de Bruxelles.**
 
 Pour point de départ de la discussion, nous ferons une présentation des idées et des points de vue des deux auteurs. Il n’est pas nécessaire d’avoir lu ces écrits pour participer à la rencontre.
 
