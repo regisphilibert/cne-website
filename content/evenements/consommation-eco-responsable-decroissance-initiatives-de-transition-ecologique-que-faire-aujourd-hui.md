@@ -6,7 +6,6 @@ date_string: Jeudi 19 janvier 2023 à 19h00
 where: Maison des solidarités locales et internationales - 215 rue Vendôme, Lyon 6900
 banner: ''
 types: []
-draft: true
 
 ---
 **Discussion-échange autour de deux textes**
