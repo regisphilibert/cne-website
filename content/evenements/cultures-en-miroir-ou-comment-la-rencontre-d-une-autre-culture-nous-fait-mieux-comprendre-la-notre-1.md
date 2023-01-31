@@ -1,25 +1,26 @@
 ---
 title: Cultures en miroir, ou comment la rencontre d’une autre culture nous fait mieux
   comprendre la nôtre
-date: 
-date_string: ''
-where: ''
+date: 2023-03-14T19:00:00+01:00
+date_string: Mardi 14/03/2023 à 19h00
+where: 'Maison des solidarités locales et internationales - 215 rue Vendôme, Lyon
+  69003 '
 banner: ''
-types: []
+types:
+- Conférence
+- Rencontre
 draft: true
 
 ---
-Cultures en miroir, ou comment la rencontre d’une autre culture nous fait mieux comprendre la nôtre.
+**Cultures en miroir, ou comment la rencontre d’une autre culture nous fait mieux comprendre la nôtre.**
 
 Rencontres avec quelques aspects de la culture Guinéenne et la culture Nord-Américaine: deux témoignages
 
-Date : Mardi 14 mars à 19h00 - Entrée libre
+**Date : Mardi 14 mars à 19h00** - Entrée libre
 
-Lieu : Maison des solidarités locales et internationales - 215 rue Vendôme, Lyon 69003
+**Lieu : Maison des solidarités locales et internationales - 215 rue Vendôme, Lyon 69003** Accès public : par la rue Chaponnay
 
-Accès public : par la rue Chaponnay
-
-Attention : Places limitées - Inscription conseillée par mail - Remplir le formulaire de contact du site Internet [https://comprendre-epoque.netlify.app/contact/](https://comprendre-epoque.netlify.app/contact/ "https://comprendre-epoque.netlify.app/contact/") en indiquant que vous vous inscrivez à cet évènement. Vous recevrez une confirmation dans la limite des places disponibles.
+**Attention : Places limitées - Inscription conseillée par mail - Remplir le formulaire de contact du site Internet** [**https://comprendre-epoque.netlify.app/contact/**](https://comprendre-epoque.netlify.app/contact/ "https://comprendre-epoque.netlify.app/contact/") **en indiquant que vous vous inscrivez à cet évènement. Vous recevrez une confirmation dans la limite des places disponibles.**
 
 L’anthropologie est une discipline qui étudie les groupes humains et « dont le but premier, sinon le seul, est d’analyser et d’interpréter les différences » (Claude Lévi-Strauss, anthropologue et ethnologue français).
 
