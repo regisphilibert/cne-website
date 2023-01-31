@@ -13,7 +13,7 @@ types:
 ---
 **Cultures en miroir, ou comment la rencontre d’une autre culture nous fait mieux comprendre la nôtre.**
 
-Rencontres avec quelques aspects de la culture Guinéenne et la culture Nord-Américaine: deux témoignages
+Rencontres avec quelques aspects de la culture Guinéenne et la culture Nord-Américaine: deux témoignages.
 
 **Date : Mardi 14 mars à 19h00** - Entrée libre
 
