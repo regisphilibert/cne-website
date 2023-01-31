@@ -7,8 +7,7 @@ where: 'Maison des solidarités locales et internationales - 215 rue Vendôme, L
   69003 '
 banner: ''
 types:
-- Conférence
-- Rencontre
+- Discussion-débat
 
 ---
 **Cultures en miroir, ou comment la rencontre d’une autre culture nous fait mieux comprendre la nôtre.**
