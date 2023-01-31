@@ -9,7 +9,6 @@ banner: ''
 types:
 - Conférence
 - Rencontre
-draft: true
 
 ---
 **Cultures en miroir, ou comment la rencontre d’une autre culture nous fait mieux comprendre la nôtre.**
