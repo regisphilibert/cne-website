@@ -6,7 +6,6 @@ where: Maison des solidarités locales et internationales - 215 rue Vendôme, Ly
 banner: ''
 types:
 - Rencontre-échange
-draft: true
 
 ---
 **Rencontre-échange autour du livre « La crise de la masculinité - Autopsie d’un mythe tenace Editions Points – 2018 - Francis DUPUIS-DERI** - Professeur de science politique à l’Institut de recherches et d’études féministes à l’UQAM  
