@@ -6,7 +6,6 @@ where: 'Café associatif : Le Moulin à Café- 8 rue Sainte-Léonie, 75014 Paris
 banner: ''
 types:
 - 'Discussion-débat '
-draft: true
 
 ---
 **Discussion-débat autour du livre de Marie-Chantal DOUCET, Sociologue, travailleuse sociale et Professeure à l’université d’Ottawa : Solitudes et sociétés contemporaines –** Editions Presses de l’Université du Québec.  
