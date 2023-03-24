@@ -1,7 +1,7 @@
 ---
 title: CRISE DE LA MASCULINITE, MYTHE OU REALITE ?
 date: 2023-05-02T19:00:00+02:00
-date_string: Mardi 02 mai 2023
+date_string: Mardi 02 mai 2023 à 19h00
 where: Maison des solidarités locales et internationales - 215 rue Vendôme, Lyon 69003
 banner: ''
 types:
